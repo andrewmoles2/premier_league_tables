@@ -53,7 +53,7 @@ winners %>%
   labs(x = "Goals conceded",
        y = "Goals scored",
        title = "Goal differences of Premier League title winners",
-       subtitle = "Liverpool in 19/20 got the same scored and conceded goals as Chelsea 16/17") +
+       subtitle = "Liverpool in 19/20 and Chelsea in 16/17 achieved\nthe same scored and conceded goals") +
   theme_minimal(base_family = f, base_size = 14) +
   theme(plot.title.position = "plot")
 
@@ -62,3 +62,4 @@ ggsave("winners_gd.png", units = "px", dpi = 300, device = ragg::agg_png,
 
 
 
+ 
