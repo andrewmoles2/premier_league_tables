@@ -23,12 +23,23 @@ winners <- prem_tables %>%
     )
   )
 
+club_colours <- c(
+  "#978251", #CA2B1F
+  "#5295EA",
+  "#041384",
+  "#F1BD41",
+  "#E24C54",
+  "#A1C4E6",
+  "#C93530"
+)
+names(club_colours) <- sort(unique(winners$team))
+
 winners %>%
   ggplot(aes(x = ga, y = gf)) +
   geom_text_repel(aes(label = str_wrap(plot_label, width = 5)),
                   max.overlaps = 20, size = 3.5,
                   family = f) +
-  geom_point(size = 2.5) +
+  geom_point(aes(colour = team), size = 2.5) +
   annotate("text", x = 50, y = 110,  family = f,
            label = "Most goals scored\nMost goals conceded",
            vjust = "inward", hjust = "inward") +
@@ -37,10 +48,13 @@ winners %>%
            vjust = "inward", hjust = "inward") +
   scale_x_continuous(breaks = seq(10, 50, 5), limits = c(10, 50)) +
   scale_y_continuous(breaks = seq(60, 110, 5), limits = c(60, 110)) +
+  scale_colour_manual(values = club_colours) +
+  guides(colour = "none") +
   labs(x = "Goals conceded",
        y = "Goals scored",
-       title = "Goal differences of Premier League title winners") +
-  theme_minimal(base_family = f) +
+       title = "Goal differences of Premier League title winners",
+       subtitle = "Liverpool in 19/20 got the same scored and conceded goals as Chelsea 16/17") +
+  theme_minimal(base_family = f, base_size = 14) +
   theme(plot.title.position = "plot")
 
 ggsave("winners_gd.png", units = "px", dpi = 300, device = ragg::agg_png,
