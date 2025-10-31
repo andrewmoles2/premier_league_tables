@@ -82,4 +82,6 @@ all_prem_years_clean <- all_prem_years %>%
 
 write_csv(all_prem_years_clean, "data/premier_league_tables.csv")
 
+# optional save extra
+# make a folder in data and save each year there
 

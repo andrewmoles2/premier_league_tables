@@ -6,10 +6,10 @@ To get to the data.
 
 ```{r}
 # option 1 - load using readr
-eurovision <- readr::read_csv("https://raw.githubusercontent.com/andrewmoles2/premier_league_tables/main/data/premier_league_tables.csv")
+eurovision <- readr::read_csv("https://raw.githubusercontent.com/andrewmoles2/premier_league_tables/refs/heads/master/data/premier_league_tables.csv")
 
 # option 2 - load using base R read.csv
-eurovision <- read.csv("https://raw.githubusercontent.com/andrewmoles2/premier_league_tables/main/data/premier_league_tables.csv")
+eurovision <- read.csv("https://raw.githubusercontent.com/andrewmoles2/premier_league_tables/refs/heads/master/data/premier_league_tables.csv")
 ``` 
 
 For Python:
@@ -17,7 +17,7 @@ For Python:
 ```{python}
 import pandas as pd
 
-eurovision = pd.read_csv("https://raw.githubusercontent.com/andrewmoles2/premier_league_tables/main/data/premier_league_tables.csv")
+eurovision = pd.read_csv("https://raw.githubusercontent.com/andrewmoles2/premier_league_tables/refs/heads/master/data/premier_league_tables.csv")
 ```
 
 An example visual that can be made with this data. This is a replica (of sorts) based on a visual found in this [BBC article](https://www.bbc.co.uk/sport/football/articles/ce3xqv0k6xgo). 
