@@ -19,3 +19,8 @@ import pandas as pd
 
 eurovision = pd.read_csv("https://raw.githubusercontent.com/andrewmoles2/premier_league_tables/main/data/premier_league_tables.csv")
 ```
+
+An example visual that can be made with this data. This is a replica (of sorts) based on a visual found in this [BBC article](https://www.bbc.co.uk/sport/football/articles/ce3xqv0k6xgo). 
+
+![](winners_gd.png)
+
