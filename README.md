@@ -22,7 +22,7 @@ prem_league_tables = pd.read_csv("https://raw.githubusercontent.com/andrewmoles2
 
 An example visual that can be made with this data. This is a replica (of sorts) based on a visual found in this [BBC article](https://www.bbc.co.uk/sport/football/articles/ce3xqv0k6xgo). 
 
-![](winners_gd.png)
+![](figures/winners_gd.png)
 
 This is another visual, doing something very similar but with teams relegated. 
 

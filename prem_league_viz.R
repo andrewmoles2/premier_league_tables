@@ -57,7 +57,7 @@ winners %>%
   theme_minimal(base_family = f, base_size = 14) +
   theme(plot.title.position = "plot")
 
-ggsave("winners_gd.png", units = "px", dpi = 300, device = ragg::agg_png,
+ggsave("figures/winners_gd.png", units = "px", dpi = 300, device = ragg::agg_png,
        width = 3250, height = 3000, bg = "white")
 
 
