@@ -1,5 +1,5 @@
 pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
-1,Chelsea ,38,29,8,1,72,15,57,95,Qualification for the Champions League group stage,2004-2005
+1,Chelsea,38,29,8,1,72,15,57,95,Qualification for the Champions League group stage,2004-2005
 2,Arsenal,38,25,8,5,87,36,51,83,Qualification for the Champions League group stage,2004-2005
 3,Manchester United,38,22,11,5,58,26,32,77,Qualification for the Champions League third qualifying round,2004-2005
 4,Everton,38,18,7,13,45,46,-1,61,Qualification for the Champions League third qualifying round,2004-2005
@@ -16,6 +16,6 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Blackburn Rovers,38,9,15,14,32,43,-11,42,,2004-2005
 16,Portsmouth,38,10,9,19,43,59,-16,39,,2004-2005
 17,West Bromwich Albion,38,6,16,16,36,61,-25,34,,2004-2005
-18,Crystal Palace ,38,7,12,19,41,62,-21,33,Relegation to the Football League Championship,2004-2005
-19,Norwich City ,38,7,12,19,42,77,-35,33,Relegation to the Football League Championship,2004-2005
-20,Southampton ,38,6,14,18,45,66,-21,32,Relegation to the Football League Championship,2004-2005
+18,Crystal Palace,38,7,12,19,41,62,-21,33,Relegation to the Football League Championship,2004-2005
+19,Norwich City,38,7,12,19,42,77,-35,33,Relegation to the Football League Championship,2004-2005
+20,Southampton,38,6,14,18,45,66,-21,32,Relegation to the Football League Championship,2004-2005

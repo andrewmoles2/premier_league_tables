@@ -1,5 +1,5 @@
 pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
-1,Liverpool ,38,25,9,4,86,41,45,84,Qualification for the Champions League league phase,2024-2025
+1,Liverpool,38,25,9,4,86,41,45,84,Qualification for the Champions League league phase,2024-2025
 2,Arsenal,38,20,14,4,69,34,35,74,Qualification for the Champions League league phase,2024-2025
 3,Manchester City,38,21,8,9,72,44,28,71,Qualification for the Champions League league phase,2024-2025
 4,Chelsea,38,20,9,9,64,43,21,69,Qualification for the Champions League league phase,2024-2025
@@ -16,6 +16,6 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Manchester United,38,11,9,18,44,54,-10,42,,2024-2025
 16,Wolverhampton Wanderers,38,12,6,20,54,69,-15,42,,2024-2025
 17,Tottenham Hotspur,38,11,5,22,64,65,-1,38,Qualification for the Champions League league phase,2024-2025
-18,Leicester City ,38,6,7,25,33,80,-47,25,Relegation to EFL Championship,2024-2025
-19,Ipswich Town ,38,4,10,24,36,82,-46,22,Relegation to EFL Championship,2024-2025
-20,Southampton ,38,2,6,30,26,86,-60,12,Relegation to EFL Championship,2024-2025
+18,Leicester City,38,6,7,25,33,80,-47,25,Relegation to EFL Championship,2024-2025
+19,Ipswich Town,38,4,10,24,36,82,-46,22,Relegation to EFL Championship,2024-2025
+20,Southampton,38,2,6,30,26,86,-60,12,Relegation to EFL Championship,2024-2025

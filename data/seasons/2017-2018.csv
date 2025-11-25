@@ -1,5 +1,5 @@
 pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
-1,Manchester City ,38,32,4,2,106,27,79,100,Qualification for the Champions League group stage,2017-2018
+1,Manchester City,38,32,4,2,106,27,79,100,Qualification for the Champions League group stage,2017-2018
 2,Manchester United,38,25,6,7,68,28,40,81,Qualification for the Champions League group stage,2017-2018
 3,Tottenham Hotspur,38,23,8,7,74,36,38,77,Qualification for the Champions League group stage,2017-2018
 4,Liverpool,38,21,12,5,84,38,46,75,Qualification for the Champions League group stage,2017-2018
@@ -16,6 +16,6 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Brighton & Hove Albion,38,9,13,16,34,54,-20,40,,2017-2018
 16,Huddersfield Town,38,9,10,19,28,58,-30,37,,2017-2018
 17,Southampton,38,7,15,16,37,56,-19,36,,2017-2018
-18,Swansea City ,38,8,9,21,28,56,-28,33,Relegation to EFL Championship,2017-2018
-19,Stoke City ,38,7,12,19,35,68,-33,33,Relegation to EFL Championship,2017-2018
-20,West Bromwich Albion ,38,6,13,19,31,56,-25,31,Relegation to EFL Championship,2017-2018
+18,Swansea City,38,8,9,21,28,56,-28,33,Relegation to EFL Championship,2017-2018
+19,Stoke City,38,7,12,19,35,68,-33,33,Relegation to EFL Championship,2017-2018
+20,West Bromwich Albion,38,6,13,19,31,56,-25,31,Relegation to EFL Championship,2017-2018

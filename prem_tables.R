@@ -68,6 +68,8 @@ for (s in seq_along(prem_table_list_tidy)) {
     clean_names() |>
     mutate(
       team = str_replace(team, "\\(.*", ""),
+      team = str_replace(team, "\\[.*", ""),
+      team = trimws(team),
       qualification_or_relegation = str_replace(qualification_or_relegation,
                                                 "\\[.*", ""),
       pts = str_replace(pts, "\\[.*", ""),
@@ -85,7 +87,7 @@ all_prem_years <- data.table::rbindlist(prem_table_list_tidy)
 #all_prem_years <- do.call("rbind", prem_table_list_tidy)
 
 # save combined dataset ----
-write_csv(all_prem_years_clean, "data/premier_league_tables.csv")
+write_csv(all_prem_years, "data/premier_league_tables.csv")
 
 # save data for each season ----
 if (dir.exists("data/seasons") == FALSE) {

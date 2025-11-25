@@ -1,5 +1,5 @@
 pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
-1,Manchester City ,38,29,6,3,99,26,73,93,Qualification for the Champions League group stage,2021-2022
+1,Manchester City,38,29,6,3,99,26,73,93,Qualification for the Champions League group stage,2021-2022
 2,Liverpool,38,28,8,2,94,26,68,92,Qualification for the Champions League group stage,2021-2022
 3,Chelsea,38,21,11,6,76,33,43,74,Qualification for the Champions League group stage,2021-2022
 4,Tottenham Hotspur,38,22,5,11,69,40,29,71,Qualification for the Champions League group stage,2021-2022
@@ -16,6 +16,6 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Southampton,38,9,13,16,43,67,-24,40,,2021-2022
 16,Everton,38,11,6,21,43,66,-23,39,,2021-2022
 17,Leeds United,38,9,11,18,42,79,-37,38,,2021-2022
-18,Burnley ,38,7,14,17,34,53,-19,35,Relegation to EFL Championship,2021-2022
-19,Watford ,38,6,5,27,34,77,-43,23,Relegation to EFL Championship,2021-2022
-20,Norwich City ,38,5,7,26,23,84,-61,22,Relegation to EFL Championship,2021-2022
+18,Burnley,38,7,14,17,34,53,-19,35,Relegation to EFL Championship,2021-2022
+19,Watford,38,6,5,27,34,77,-43,23,Relegation to EFL Championship,2021-2022
+20,Norwich City,38,5,7,26,23,84,-61,22,Relegation to EFL Championship,2021-2022

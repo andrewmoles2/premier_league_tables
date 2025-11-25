@@ -1,5 +1,5 @@
 pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
-1,Manchester United ,38,25,8,5,74,34,40,83,Qualification for the Champions League group stage,2002-2003
+1,Manchester United,38,25,8,5,74,34,40,83,Qualification for the Champions League group stage,2002-2003
 2,Arsenal,38,23,9,6,85,42,43,78,Qualification for the Champions League group stage,2002-2003
 3,Newcastle United,38,21,6,11,63,48,15,69,Qualification for the Champions League third qualifying round,2002-2003
 4,Chelsea,38,19,10,9,68,38,30,67,Qualification for the Champions League third qualifying round,2002-2003
@@ -16,6 +16,6 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Leeds United,38,14,5,19,58,57,1,47,,2002-2003
 16,Aston Villa,38,12,9,17,42,47,-5,45,,2002-2003
 17,Bolton Wanderers,38,10,14,14,41,51,-10,44,,2002-2003
-18,West Ham United ,38,10,12,16,42,59,-17,42,Relegation to Football League First Division,2002-2003
-19,West Bromwich Albion ,38,6,8,24,29,65,-36,26,Relegation to Football League First Division,2002-2003
-20,Sunderland ,38,4,7,27,21,65,-44,19,Relegation to Football League First Division,2002-2003
+18,West Ham United,38,10,12,16,42,59,-17,42,Relegation to Football League First Division,2002-2003
+19,West Bromwich Albion,38,6,8,24,29,65,-36,26,Relegation to Football League First Division,2002-2003
+20,Sunderland,38,4,7,27,21,65,-44,19,Relegation to Football League First Division,2002-2003

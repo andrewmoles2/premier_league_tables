@@ -1,5 +1,5 @@
 pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
-1,Manchester United ,38,23,11,4,78,37,41,80,Qualification for the Champions League group stage,2010-2011
+1,Manchester United,38,23,11,4,78,37,41,80,Qualification for the Champions League group stage,2010-2011
 2,Chelsea,38,21,8,9,69,33,36,71,Qualification for the Champions League group stage,2010-2011
 3,Manchester City,38,21,8,9,60,33,27,71,Qualification for the Champions League group stage,2010-2011
 4,Arsenal,38,19,11,8,72,43,29,68,Qualification for the Champions League play-off round,2010-2011
@@ -16,6 +16,6 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Blackburn Rovers,38,11,10,17,46,59,-13,43,,2010-2011
 16,Wigan Athletic,38,9,15,14,40,61,-21,42,,2010-2011
 17,Wolverhampton Wanderers,38,11,7,20,46,66,-20,40,,2010-2011
-18,Birmingham City ,38,8,15,15,37,58,-21,39,Qualification for the Europa League play-off round and relegation to Football League Championship,2010-2011
-19,Blackpool ,38,10,9,19,55,78,-23,39,Relegation to Football League Championship,2010-2011
-20,West Ham United ,38,7,12,19,43,70,-27,33,Relegation to Football League Championship,2010-2011
+18,Birmingham City,38,8,15,15,37,58,-21,39,Qualification for the Europa League play-off round and relegation to Football League Championship,2010-2011
+19,Blackpool,38,10,9,19,55,78,-23,39,Relegation to Football League Championship,2010-2011
+20,West Ham United,38,7,12,19,43,70,-27,33,Relegation to Football League Championship,2010-2011

@@ -1,5 +1,5 @@
 pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
-1,Manchester City ,38,28,5,5,94,33,61,89,Qualification to Champions League group stage,2022-2023
+1,Manchester City,38,28,5,5,94,33,61,89,Qualification to Champions League group stage,2022-2023
 2,Arsenal,38,26,6,6,88,43,45,84,Qualification to Champions League group stage,2022-2023
 3,Manchester United,38,23,6,9,58,43,15,75,Qualification to Champions League group stage,2022-2023
 4,Newcastle United,38,19,14,5,68,33,35,71,Qualification to Champions League group stage,2022-2023
@@ -16,6 +16,6 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Bournemouth,38,11,6,21,37,71,-34,39,,2022-2023
 16,Nottingham Forest,38,9,11,18,38,68,-30,38,,2022-2023
 17,Everton,38,8,12,18,34,57,-23,36,,2022-2023
-18,Leicester City ,38,9,7,22,51,68,-17,34,Relegation to EFL Championship,2022-2023
-19,Leeds United ,38,7,10,21,48,78,-30,31,Relegation to EFL Championship,2022-2023
-20,Southampton ,38,6,7,25,36,73,-37,25,Relegation to EFL Championship,2022-2023
+18,Leicester City,38,9,7,22,51,68,-17,34,Relegation to EFL Championship,2022-2023
+19,Leeds United,38,7,10,21,48,78,-30,31,Relegation to EFL Championship,2022-2023
+20,Southampton,38,6,7,25,36,73,-37,25,Relegation to EFL Championship,2022-2023

@@ -1,5 +1,5 @@
 pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
-1,Manchester United ,38,28,7,3,97,45,52,91,Qualification for the Champions League first group stage,1999-2000
+1,Manchester United,38,28,7,3,97,45,52,91,Qualification for the Champions League first group stage,1999-2000
 2,Arsenal,38,22,7,9,73,43,30,73,Qualification for the Champions League first group stage,1999-2000
 3,Leeds United,38,21,6,11,58,43,15,69,Qualification for the Champions League third qualifying round,1999-2000
 4,Liverpool,38,19,10,9,51,30,21,67,Qualification for the UEFA Cup first round,1999-2000
@@ -16,6 +16,6 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Southampton,38,12,8,18,45,62,-17,44,,1999-2000
 16,Derby County,38,9,11,18,44,57,-13,38,,1999-2000
 17,Bradford City,38,9,9,20,38,68,-30,36,Qualification for the Intertoto Cup second round,1999-2000
-18,Wimbledon ,38,7,12,19,46,74,-28,33,Relegation to the Football League First Division,1999-2000
-19,Sheffield Wednesday ,38,8,7,23,38,70,-32,31,Relegation to the Football League First Division,1999-2000
-20,Watford ,38,6,6,26,35,77,-42,24,Relegation to the Football League First Division,1999-2000
+18,Wimbledon,38,7,12,19,46,74,-28,33,Relegation to the Football League First Division,1999-2000
+19,Sheffield Wednesday,38,8,7,23,38,70,-32,31,Relegation to the Football League First Division,1999-2000
+20,Watford,38,6,6,26,35,77,-42,24,Relegation to the Football League First Division,1999-2000

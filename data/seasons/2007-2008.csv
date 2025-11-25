@@ -1,5 +1,5 @@
 pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
-1,Manchester United ,38,27,6,5,80,22,58,87,Qualification for the Champions League group stage,2007-2008
+1,Manchester United,38,27,6,5,80,22,58,87,Qualification for the Champions League group stage,2007-2008
 2,Chelsea,38,25,10,3,65,26,39,85,Qualification for the Champions League group stage,2007-2008
 3,Arsenal,38,24,11,3,74,31,43,83,Qualification for the Champions League third qualifying round,2007-2008
 4,Liverpool,38,21,13,4,67,28,39,76,Qualification for the Champions League third qualifying round,2007-2008
@@ -16,6 +16,6 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Sunderland,38,11,6,21,36,59,-23,39,,2007-2008
 16,Bolton Wanderers,38,9,10,19,36,54,-18,37,,2007-2008
 17,Fulham,38,8,12,18,38,60,-22,36,,2007-2008
-18,Reading ,38,10,6,22,41,66,-25,36,Relegation to Football League Championship,2007-2008
-19,Birmingham City ,38,8,11,19,46,62,-16,35,Relegation to Football League Championship,2007-2008
-20,Derby County ,38,1,8,29,20,89,-69,11,Relegation to Football League Championship,2007-2008
+18,Reading,38,10,6,22,41,66,-25,36,Relegation to Football League Championship,2007-2008
+19,Birmingham City,38,8,11,19,46,62,-16,35,Relegation to Football League Championship,2007-2008
+20,Derby County,38,1,8,29,20,89,-69,11,Relegation to Football League Championship,2007-2008

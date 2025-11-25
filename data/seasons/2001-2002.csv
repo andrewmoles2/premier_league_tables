@@ -1,5 +1,5 @@
 pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
-1,Arsenal ,38,26,9,3,79,36,43,87,Qualification for the Champions League first group stage,2001-2002
+1,Arsenal,38,26,9,3,79,36,43,87,Qualification for the Champions League first group stage,2001-2002
 2,Liverpool,38,24,8,6,67,30,37,80,Qualification for the Champions League first group stage,2001-2002
 3,Manchester United,38,24,5,9,87,45,42,77,Qualification for the Champions League third qualifying round,2001-2002
 4,Newcastle United,38,21,8,9,74,52,22,71,Qualification for the Champions League third qualifying round,2001-2002
@@ -16,6 +16,6 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Everton,38,11,10,17,45,57,-12,43,,2001-2002
 16,Bolton Wanderers,38,9,13,16,44,62,-18,40,,2001-2002
 17,Sunderland,38,10,10,18,29,51,-22,40,,2001-2002
-18,Ipswich Town ,38,9,9,20,41,64,-23,36,UEFA Cup QR and relegation to the First Division,2001-2002
-19,Derby County ,38,8,6,24,33,63,-30,30,Relegation to the Football League First Division,2001-2002
-20,Leicester City ,38,5,13,20,30,64,-34,28,Relegation to the Football League First Division,2001-2002
+18,Ipswich Town,38,9,9,20,41,64,-23,36,UEFA Cup QR and relegation to the First Division,2001-2002
+19,Derby County,38,8,6,24,33,63,-30,30,Relegation to the Football League First Division,2001-2002
+20,Leicester City,38,5,13,20,30,64,-34,28,Relegation to the Football League First Division,2001-2002

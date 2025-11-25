@@ -1,5 +1,5 @@
 pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
-1,Chelsea ,38,30,3,5,85,33,52,93,Qualification for the Champions League group stage,2016-2017
+1,Chelsea,38,30,3,5,85,33,52,93,Qualification for the Champions League group stage,2016-2017
 2,Tottenham Hotspur,38,26,8,4,86,26,60,86,Qualification for the Champions League group stage,2016-2017
 3,Manchester City,38,23,9,6,80,39,41,78,Qualification for the Champions League group stage,2016-2017
 4,Liverpool,38,22,10,6,78,42,36,76,Qualification for the Champions League play-off round,2016-2017
@@ -16,6 +16,6 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Swansea City,38,12,5,21,45,70,-25,41,,2016-2017
 16,Burnley,38,11,7,20,39,55,-16,40,,2016-2017
 17,Watford,38,11,7,20,40,68,-28,40,,2016-2017
-18,Hull City ,38,9,7,22,37,80,-43,34,Relegation to EFL Championship,2016-2017
-19,Middlesbrough ,38,5,13,20,27,53,-26,28,Relegation to EFL Championship,2016-2017
-20,Sunderland ,38,6,6,26,29,69,-40,24,Relegation to EFL Championship,2016-2017
+18,Hull City,38,9,7,22,37,80,-43,34,Relegation to EFL Championship,2016-2017
+19,Middlesbrough,38,5,13,20,27,53,-26,28,Relegation to EFL Championship,2016-2017
+20,Sunderland,38,6,6,26,29,69,-40,24,Relegation to EFL Championship,2016-2017

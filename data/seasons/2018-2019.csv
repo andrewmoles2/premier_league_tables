@@ -1,5 +1,5 @@
 pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
-1,Manchester City ,38,32,2,4,95,23,72,98,Qualification to Champions League group stage,2018-2019
+1,Manchester City,38,32,2,4,95,23,72,98,Qualification to Champions League group stage,2018-2019
 2,Liverpool,38,30,7,1,89,22,67,97,Qualification to Champions League group stage,2018-2019
 3,Chelsea,38,21,9,8,63,39,24,72,Qualification to Champions League group stage,2018-2019
 4,Tottenham Hotspur,38,23,2,13,67,39,28,71,Qualification to Champions League group stage,2018-2019
@@ -16,6 +16,6 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Burnley,38,11,7,20,45,68,-23,40,,2018-2019
 16,Southampton,38,9,12,17,45,65,-20,39,,2018-2019
 17,Brighton & Hove Albion,38,9,9,20,35,60,-25,36,,2018-2019
-18,Cardiff City ,38,10,4,24,34,69,-35,34,Relegation to EFL Championship,2018-2019
-19,Fulham ,38,7,5,26,34,81,-47,26,Relegation to EFL Championship,2018-2019
-20,Huddersfield Town ,38,3,7,28,22,76,-54,16,Relegation to EFL Championship,2018-2019
+18,Cardiff City,38,10,4,24,34,69,-35,34,Relegation to EFL Championship,2018-2019
+19,Fulham,38,7,5,26,34,81,-47,26,Relegation to EFL Championship,2018-2019
+20,Huddersfield Town,38,3,7,28,22,76,-54,16,Relegation to EFL Championship,2018-2019

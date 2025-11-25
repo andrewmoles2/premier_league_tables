@@ -1,5 +1,5 @@
 pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
-1,Chelsea ,38,27,5,6,103,32,71,86,Qualification for the Champions League group stage,2009-2010
+1,Chelsea,38,27,5,6,103,32,71,86,Qualification for the Champions League group stage,2009-2010
 2,Manchester United,38,27,4,7,86,28,58,85,Qualification for the Champions League group stage,2009-2010
 3,Arsenal,38,23,6,9,83,41,42,75,Qualification for the Champions League group stage,2009-2010
 4,Tottenham Hotspur,38,21,7,10,67,41,26,70,Qualification for the Champions League play-off round,2009-2010
@@ -16,6 +16,6 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Wolverhampton Wanderers,38,9,11,18,32,56,-24,38,,2009-2010
 16,Wigan Athletic,38,9,9,20,37,79,-42,36,,2009-2010
 17,West Ham United,38,8,11,19,47,66,-19,35,,2009-2010
-18,Burnley ,38,8,6,24,42,82,-40,30,Relegation to Football League Championship,2009-2010
-19,Hull City ,38,6,12,20,34,75,-41,30,Relegation to Football League Championship,2009-2010
-20,Portsmouth ,38,7,7,24,34,66,-32,19,Relegation to Football League Championship,2009-2010
+18,Burnley,38,8,6,24,42,82,-40,30,Relegation to Football League Championship,2009-2010
+19,Hull City,38,6,12,20,34,75,-41,30,Relegation to Football League Championship,2009-2010
+20,Portsmouth,38,7,7,24,34,66,-32,19,Relegation to Football League Championship,2009-2010

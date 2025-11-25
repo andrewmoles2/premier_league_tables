@@ -1,5 +1,5 @@
 pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
-1,Manchester United ,38,25,7,6,73,35,38,82,Qualification for the Champions League group stage,1995-1996
+1,Manchester United,38,25,7,6,73,35,38,82,Qualification for the Champions League group stage,1995-1996
 2,Newcastle United,38,24,6,8,66,37,29,78,Qualification for the UEFA Cup first round,1995-1996
 3,Liverpool,38,20,11,7,70,34,36,71,Qualification for the Cup Winners' Cup first round,1995-1996
 4,Aston Villa,38,18,9,11,52,35,17,63,Qualification for the UEFA Cup first round,1995-1996
@@ -16,6 +16,6 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Sheffield Wednesday,38,10,10,18,48,61,-13,40,,1995-1996
 16,Coventry City,38,8,14,16,42,60,-18,38,,1995-1996
 17,Southampton,38,9,11,18,34,52,-18,38,,1995-1996
-18,Manchester City ,38,9,11,18,33,58,-25,38,Relegation to Football League First Division,1995-1996
-19,Queens Park Rangers ,38,9,6,23,38,57,-19,33,Relegation to Football League First Division,1995-1996
-20,Bolton Wanderers ,38,8,5,25,39,71,-32,29,Relegation to Football League First Division,1995-1996
+18,Manchester City,38,9,11,18,33,58,-25,38,Relegation to Football League First Division,1995-1996
+19,Queens Park Rangers,38,9,6,23,38,57,-19,33,Relegation to Football League First Division,1995-1996
+20,Bolton Wanderers,38,8,5,25,39,71,-32,29,Relegation to Football League First Division,1995-1996

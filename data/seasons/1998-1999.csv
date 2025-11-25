@@ -1,5 +1,5 @@
 pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
-1,Manchester United ,38,22,13,3,80,37,43,79,Qualification for the Champions League first group stage,1998-1999
+1,Manchester United,38,22,13,3,80,37,43,79,Qualification for the Champions League first group stage,1998-1999
 2,Arsenal,38,22,12,4,59,17,42,78,Qualification for the Champions League first group stage,1998-1999
 3,Chelsea,38,20,15,3,57,30,27,75,Qualification for the Champions League third qualifying round,1998-1999
 4,Leeds United,38,18,13,7,62,34,28,67,Qualification for the UEFA Cup first round,1998-1999
@@ -16,6 +16,6 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Coventry City,38,11,9,18,39,51,-12,42,,1998-1999
 16,Wimbledon,38,10,12,16,40,63,-23,42,,1998-1999
 17,Southampton,38,11,8,19,37,64,-27,41,,1998-1999
-18,Charlton Athletic ,38,8,12,18,41,56,-15,36,Relegation to Football League First Division,1998-1999
-19,Blackburn Rovers ,38,7,14,17,38,52,-14,35,Relegation to Football League First Division,1998-1999
-20,Nottingham Forest ,38,7,9,22,35,69,-34,30,Relegation to Football League First Division,1998-1999
+18,Charlton Athletic,38,8,12,18,41,56,-15,36,Relegation to Football League First Division,1998-1999
+19,Blackburn Rovers,38,7,14,17,38,52,-14,35,Relegation to Football League First Division,1998-1999
+20,Nottingham Forest,38,7,9,22,35,69,-34,30,Relegation to Football League First Division,1998-1999

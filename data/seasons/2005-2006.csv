@@ -1,5 +1,5 @@
 pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
-1,Chelsea ,38,29,4,5,72,22,50,91,Qualification for the Champions League group stage,2005-2006
+1,Chelsea,38,29,4,5,72,22,50,91,Qualification for the Champions League group stage,2005-2006
 2,Manchester United,38,25,8,5,72,34,38,83,Qualification for the Champions League group stage,2005-2006
 3,Liverpool,38,25,7,6,57,25,32,82,Qualification for the Champions League third qualifying round,2005-2006
 4,Arsenal,38,20,7,11,68,31,37,67,Qualification for the Champions League third qualifying round,2005-2006
@@ -16,6 +16,6 @@ pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
 15,Manchester City,38,13,4,21,43,48,-5,43,,2005-2006
 16,Aston Villa,38,10,12,16,42,55,-13,42,,2005-2006
 17,Portsmouth,38,10,8,20,37,62,-25,38,,2005-2006
-18,Birmingham City ,38,8,10,20,28,50,-22,34,Relegation to the Football League Championship,2005-2006
-19,West Bromwich Albion ,38,7,9,22,31,58,-27,30,Relegation to the Football League Championship,2005-2006
-20,Sunderland ,38,3,6,29,26,69,-43,15,Relegation to the Football League Championship,2005-2006
+18,Birmingham City,38,8,10,20,28,50,-22,34,Relegation to the Football League Championship,2005-2006
+19,West Bromwich Albion,38,7,9,22,31,58,-27,30,Relegation to the Football League Championship,2005-2006
+20,Sunderland,38,3,6,29,26,69,-43,15,Relegation to the Football League Championship,2005-2006
