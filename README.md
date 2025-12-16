@@ -27,3 +27,11 @@ An example visual that can be made with this data. This is a replica (of sorts) 
 This is another visual, doing something very similar but with teams relegated. 
 
 ![](figures/relegated_gd.png)
+
+We can also do a time series just looking how the points per season have changed per position. 
+
+![](figures/points_per_season_v1.png)
+
+This can also be done a different way, looking at summary statistics for each position. This particular visual is helpful to look at the myth of 40 points needed to stay in the Premier League. 
+
+![](figures/points_per_season_v2.png)
