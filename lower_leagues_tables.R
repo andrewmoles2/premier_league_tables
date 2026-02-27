@@ -103,6 +103,7 @@ champ_table_list <- c(champ_table_list1, champ_table_list2)
 # * l1 ----
 # 2019-2020 has 12 columns....
 # add in if statement for that season to adjust...
+# 2006-2007 link is includes all tables. Need another if condition to fix it for L1 and L2. 
 l1_table_list2 <- list()
 for (i in seq_along(l1_url_list)) {
   if (i == 16) {
@@ -114,6 +115,19 @@ for (i in seq_along(l1_url_list)) {
     
     n_cols <- sapply(all_tables, ncol)
     l1_table <- all_tables[[which(n_cols == 12)[1]]]
+    
+    l1_table_list2[[i]] <- l1_table
+    
+    Sys.sleep(1)
+  } else if (i == 3 | i == 2) {
+    url_bow <- bow(l1_url_list[i])
+    
+    all_tables <- scrape(url_bow) %>%
+      html_elements("table.wikitable") %>%
+      html_table(fill = TRUE)
+    
+    n_cols <- sapply(all_tables, ncol)
+    l1_table <- all_tables[[which(n_cols == 11)[2]]]
     
     l1_table_list2[[i]] <- l1_table
     
@@ -150,6 +164,19 @@ for (i in seq_along(l2_url_list)) {
     l2_table <- all_tables[[which(n_cols == 12)[1]]]
     
     l2_table_list2[[i]] <- l2_table
+    
+    Sys.sleep(1)
+  } else if (i == 3 | i == 2) {
+    url_bow <- bow(l2_url_list[i])
+    
+    all_tables <- scrape(url_bow) %>%
+      html_elements("table.wikitable") %>%
+      html_table(fill = TRUE)
+    
+    n_cols <- sapply(all_tables, ncol)
+    l2_table <- all_tables[[which(n_cols == 11)[2]]]
+    
+    l2_table_list2[[i]] <- l1_table
     
     Sys.sleep(1)
   } else {
