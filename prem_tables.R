@@ -90,16 +90,16 @@ all_prem_years <- data.table::rbindlist(prem_table_list_tidy)
 write_csv(all_prem_years, "data/premier_league_tables.csv")
 
 # save data for each season ----
-if (dir.exists("data/seasons") == FALSE) {
-  print("No seasons directory, making it now....")
-  dir.create("data/seasons")
+if (dir.exists("data/prem_seasons") == FALSE) {
+  print("No 'prem_seasons' directory, making it now....")
+  dir.create("data/prem_seasons")
 } else {
-  print("seaons directory already exists!")
+  print("'prem_seaons' directory already exists!")
 }
 
 for (save_file in names(prem_table_list_tidy)) {
   write_csv(prem_table_list_tidy[[save_file]],
-            file = paste0("data/seasons/", save_file, ".csv"))
+            file = paste0("data/prem_seasons/", save_file, ".csv"))
 }
 
 

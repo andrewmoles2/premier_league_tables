@@ -1,0 +1,25 @@
+pos,team,pld,w,d,l,gf,ga,gd,pts,promotion_qualification_or_relegation,season
+1,Coventry City,34,18,13,3,48,30,18,67,Promotion to the EFL Championship,2019-2020
+2,Rotherham United,35,18,8,9,61,38,23,62,Promotion to the EFL Championship,2019-2020
+3,Wycombe Wanderers,34,17,8,9,45,40,5,59,Qualification for League One play-offs,2019-2020
+4,Oxford United,35,17,9,9,61,37,24,60,Qualification for League One play-offs,2019-2020
+5,Portsmouth,35,17,9,9,53,36,17,60,Qualification for League One play-offs,2019-2020
+6,Fleetwood Town,35,16,12,7,51,38,13,60,Qualification for League One play-offs,2019-2020
+7,Peterborough United,35,17,8,10,68,40,28,59,,2019-2020
+8,Sunderland,36,16,11,9,48,32,16,59,,2019-2020
+9,Doncaster Rovers,34,15,9,10,51,33,18,54,,2019-2020
+10,Gillingham,35,12,15,8,42,34,8,51,,2019-2020
+11,Ipswich Town,36,14,10,12,46,36,10,52,,2019-2020
+12,Burton Albion,35,12,12,11,50,50,0,48,,2019-2020
+13,Blackpool,35,11,12,12,44,43,1,45,,2019-2020
+14,Bristol Rovers,35,12,9,14,38,49,-11,45,,2019-2020
+15,Shrewsbury Town,34,10,11,13,31,42,-11,41,,2019-2020
+16,Lincoln City,35,12,6,17,44,46,-2,42,,2019-2020
+17,Accrington Stanley,35,10,10,15,47,53,-6,40,,2019-2020
+18,Rochdale,34,10,6,18,39,57,-18,36,,2019-2020
+19,Milton Keynes Dons,35,10,7,18,36,47,-11,37,,2019-2020
+20,AFC Wimbledon,35,8,11,16,39,52,-13,35,,2019-2020
+21,Tranmere Rovers,34,8,8,18,36,60,-24,32,Relegation to EFL League Two,2019-2020
+22,Southend United,35,4,7,24,39,85,-46,19,Relegation to EFL League Two,2019-2020
+23,Bolton Wanderers,34,5,11,18,27,66,-39,14,Relegation to EFL League Two,2019-2020
+24,Bury,0,0,0,0,0,0,0,NA,Club expelled,2019-2020

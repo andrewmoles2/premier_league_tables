@@ -1,0 +1,25 @@
+pos,team,pld,w,d,l,gf,ga,gd,pts,promotion_qualification_or_relegation,season
+1,Norwich City,46,27,13,6,93,57,36,94,Promotion to the Premier League,2018-2019
+2,Sheffield United,46,26,11,9,78,41,37,89,Promotion to the Premier League,2018-2019
+3,Leeds United,46,25,8,13,73,50,23,83,Qualification for Championship play-offs,2018-2019
+4,West Bromwich Albion,46,23,11,12,87,62,25,80,Qualification for Championship play-offs,2018-2019
+5,Aston Villa,46,20,16,10,82,61,21,76,Qualification for Championship play-offs,2018-2019
+6,Derby County,46,20,14,12,69,54,15,74,Qualification for Championship play-offs,2018-2019
+7,Middlesbrough,46,20,13,13,49,41,8,73,,2018-2019
+8,Bristol City,46,19,13,14,59,53,6,70,,2018-2019
+9,Nottingham Forest,46,17,15,14,61,54,7,66,,2018-2019
+10,Swansea City,46,18,11,17,65,62,3,65,,2018-2019
+11,Brentford,46,17,13,16,73,59,14,64,,2018-2019
+12,Sheffield Wednesday,46,16,16,14,60,62,-2,64,,2018-2019
+13,Hull City,46,17,11,18,66,68,-2,62,,2018-2019
+14,Preston North End,46,16,13,17,67,67,0,61,,2018-2019
+15,Blackburn Rovers,46,16,12,18,64,69,-5,60,,2018-2019
+16,Stoke City,46,11,22,13,45,52,-7,55,,2018-2019
+17,Birmingham City,46,14,19,13,64,58,6,52,,2018-2019
+18,Wigan Athletic,46,13,13,20,51,64,-13,52,,2018-2019
+19,Queens Park Rangers,46,14,9,23,53,71,-18,51,,2018-2019
+20,Reading,46,10,17,19,49,66,-17,47,,2018-2019
+21,Millwall,46,10,14,22,48,64,-16,44,,2018-2019
+22,Rotherham United,46,8,16,22,52,83,-31,40,Relegation to EFL League One,2018-2019
+23,Bolton Wanderers,46,8,8,30,29,78,-49,32,Relegation to EFL League One,2018-2019
+24,Ipswich Town,46,5,16,25,36,77,-41,31,Relegation to EFL League One,2018-2019

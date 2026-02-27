@@ -1,0 +1,25 @@
+pos,team,pld,w,d,l,gf,ga,gd,pts,promotion_qualification_or_relegation,season
+1,Leeds United,46,29,13,4,95,30,65,100,Promotion to the Premier League,2024-2025
+2,Burnley,46,28,16,2,69,16,53,100,Promotion to the Premier League,2024-2025
+3,Sheffield United,46,28,8,10,63,36,27,90,Qualified for the Championship play-offs,2024-2025
+4,Sunderland,46,21,13,12,58,44,14,76,Qualified for the Championship play-offs,2024-2025
+5,Coventry City,46,20,9,17,64,58,6,69,Qualified for the Championship play-offs,2024-2025
+6,Bristol City,46,17,17,12,59,55,4,68,Qualified for the Championship play-offs,2024-2025
+7,Blackburn Rovers,46,19,9,18,53,48,5,66,,2024-2025
+8,Millwall,46,18,12,16,47,49,-2,66,,2024-2025
+9,West Bromwich Albion,46,15,19,12,57,47,10,64,,2024-2025
+10,Middlesbrough,46,18,10,18,64,56,8,64,,2024-2025
+11,Swansea City,46,17,10,19,51,56,-5,61,,2024-2025
+12,Sheffield Wednesday,46,15,13,18,60,69,-9,58,,2024-2025
+13,Norwich City,46,14,15,17,71,68,3,57,,2024-2025
+14,Watford,46,16,9,21,53,61,-8,57,,2024-2025
+15,Queens Park Rangers,46,14,14,18,53,63,-10,56,,2024-2025
+16,Portsmouth,46,14,12,20,58,71,-13,54,,2024-2025
+17,Oxford United,46,13,14,19,49,65,-16,53,,2024-2025
+18,Stoke City,46,12,15,19,45,62,-17,51,,2024-2025
+19,Derby County,46,13,11,22,48,56,-8,50,,2024-2025
+20,Preston North End,46,10,20,16,48,59,-11,50,,2024-2025
+21,Hull City,46,12,13,21,44,54,-10,49,,2024-2025
+22,Luton Town,46,13,10,23,45,69,-24,49,Relegation to EFL League One,2024-2025
+23,Plymouth Argyle,46,11,13,22,51,88,-37,46,Relegation to EFL League One,2024-2025
+24,Cardiff City,46,9,17,20,48,73,-25,44,Relegation to EFL League One,2024-2025

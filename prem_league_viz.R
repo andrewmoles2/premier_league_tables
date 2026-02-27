@@ -136,6 +136,9 @@ fancy_prem_pos_plot <- function(df, positions = c(1, 20),
 
 fancy_prem_pos_plot(prem_tables, positions = c(1, 2, 5, 17, 18, 20))
 
+ggsave("figures/points_per_season_v1.png", units = "px", dpi = 300, device = ragg::agg_png,
+       width = 3250, height = 3000, bg = "white")
+
 # points per position v2 ----
 pts_by_pos <- prem_tables |>
   group_by(pos) |>
@@ -203,4 +206,5 @@ pts_by_pos |>
   theme(plot.title.position = "plot",
         plot.title = ggtext::element_markdown(size = 18, lineheight = 1.2))
 
-
+ggsave("figures/points_per_season_v2.png", units = "px", dpi = 300, device = ragg::agg_png,
+       width = 3250, height = 3000, bg = "white")

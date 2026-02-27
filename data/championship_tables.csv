@@ -1,0 +1,793 @@
+pos,team,pld,w,d,l,gf,ga,gd,pts,promotion_qualification_or_relegation,season
+1,Newcastle United,46,29,9,8,92,38,54,96,Promotion to the Premier League,1992-1993
+2,West Ham United,46,26,10,10,81,41,40,88,Promotion to the Premier League,1992-1993
+3,Portsmouth,46,26,10,10,80,46,34,88,Qualification for the First Division play-offs,1992-1993
+4,Tranmere Rovers,46,23,10,13,72,56,16,79,Qualification for the First Division play-offs,1992-1993
+5,Swindon Town,46,21,13,12,74,59,15,76,Qualification for the First Division play-offs,1992-1993
+6,Leicester City,46,22,10,14,71,64,7,76,Qualification for the First Division play-offs,1992-1993
+7,Millwall,46,18,16,12,65,53,12,70,,1992-1993
+8,Derby County,46,19,9,18,68,57,11,66,,1992-1993
+9,Grimsby Town,46,19,7,20,58,57,1,64,,1992-1993
+10,Peterborough United,46,16,14,16,55,63,-8,62,,1992-1993
+11,Wolverhampton Wanderers,46,16,13,17,57,56,1,61,,1992-1993
+12,Charlton Athletic,46,16,13,17,49,46,3,61,,1992-1993
+13,Barnsley,46,17,9,20,56,60,-4,60,,1992-1993
+14,Oxford United,46,14,14,18,53,56,-3,56,,1992-1993
+15,Bristol City,46,14,14,18,49,67,-18,56,,1992-1993
+16,Watford,46,14,13,19,57,71,-14,55,,1992-1993
+17,Notts County,46,12,16,18,55,70,-15,52,,1992-1993
+18,Southend United,46,13,13,20,54,64,-10,52,,1992-1993
+19,Birmingham City,46,13,12,21,50,72,-22,51,,1992-1993
+20,Luton Town,46,10,21,15,48,62,-14,51,,1992-1993
+21,Sunderland,46,13,11,22,50,64,-14,50,,1992-1993
+22,Brentford,46,13,10,23,52,71,-19,49,Relegation to the Second Division,1992-1993
+23,Cambridge United,46,11,16,19,48,69,-21,49,Relegation to the Second Division,1992-1993
+24,Bristol Rovers,46,10,11,25,55,87,-32,41,Relegation to the Second Division,1992-1993
+1,Crystal Palace,46,27,9,10,73,46,27,90,Promotion to the Premier League,1993-1994
+2,Nottingham Forest,46,23,14,9,74,49,25,83,Promotion to the Premier League,1993-1994
+3,Millwall,46,19,17,10,58,49,9,74,Qualification for the First Division play-offs,1993-1994
+4,Leicester City,46,19,16,11,72,59,13,73,Qualification for the First Division play-offs,1993-1994
+5,Tranmere Rovers,46,21,9,16,69,53,16,72,Qualification for the First Division play-offs,1993-1994
+6,Derby County,46,20,11,15,73,68,5,71,Qualification for the First Division play-offs,1993-1994
+7,Notts County,46,20,8,18,65,69,-4,68,,1993-1994
+8,Wolverhampton Wanderers,46,17,17,12,60,47,13,68,,1993-1994
+9,Middlesbrough,46,18,13,15,66,54,12,67,,1993-1994
+10,Stoke City,46,18,13,15,57,59,-2,67,,1993-1994
+11,Charlton Athletic,46,19,8,19,61,58,3,65,,1993-1994
+12,Sunderland,46,19,8,19,54,57,-3,65,,1993-1994
+13,Bristol City,46,16,16,14,47,50,-3,64,,1993-1994
+14,Bolton Wanderers,46,15,14,17,63,64,-1,59,,1993-1994
+15,Southend United,46,17,8,21,63,67,-4,59,,1993-1994
+16,Grimsby Town,46,13,20,13,52,47,5,59,,1993-1994
+17,Portsmouth,46,15,13,18,52,58,-6,58,,1993-1994
+18,Barnsley,46,16,7,23,55,67,-12,55,,1993-1994
+19,Watford,46,15,9,22,66,80,-14,54,,1993-1994
+20,Luton Town,46,14,11,21,56,60,-4,53,,1993-1994
+21,West Bromwich Albion,46,13,12,21,60,69,-9,51,,1993-1994
+22,Birmingham City,46,13,12,21,52,69,-17,51,Relegation to the Second Division,1993-1994
+23,Oxford United,46,13,10,23,54,75,-21,49,Relegation to the Second Division,1993-1994
+24,Peterborough United,46,8,13,25,48,76,-28,37,Relegation to the Second Division,1993-1994
+1,Middlesbrough,46,23,13,10,67,40,27,82,Promotion to the Premier League,1994-1995
+2,Reading,46,23,10,13,58,44,14,79,Qualification for the First Division play-offs,1994-1995
+3,Bolton Wanderers,46,21,14,11,67,45,22,77,Qualification for the First Division play-offs,1994-1995
+4,Wolverhampton Wanderers,46,21,13,12,77,61,16,76,Qualification for the First Division play-offs,1994-1995
+5,Tranmere Rovers,46,22,10,14,67,58,9,76,Qualification for the First Division play-offs,1994-1995
+6,Barnsley,46,20,12,14,63,52,11,72,,1994-1995
+7,Watford,46,19,13,14,52,46,6,70,,1994-1995
+8,Sheffield United,46,17,17,12,74,55,19,68,,1994-1995
+9,Derby County,46,18,12,16,66,51,15,66,,1994-1995
+10,Grimsby Town,46,17,14,15,62,56,6,65,,1994-1995
+11,Stoke City,46,16,15,15,50,53,-3,63,,1994-1995
+12,Millwall,46,16,14,16,60,60,0,62,,1994-1995
+13,Southend United,46,18,8,20,54,73,-19,62,,1994-1995
+14,Oldham Athletic,46,16,13,17,60,60,0,61,,1994-1995
+15,Charlton Athletic,46,16,11,19,58,66,-8,59,,1994-1995
+16,Luton Town,46,15,13,18,61,64,-3,58,,1994-1995
+17,Port Vale,46,15,13,18,58,64,-6,58,,1994-1995
+18,Portsmouth,46,15,13,18,53,63,-10,58,,1994-1995
+19,West Bromwich Albion,46,16,10,20,51,57,-6,58,,1994-1995
+20,Sunderland,46,12,18,16,41,45,-4,54,,1994-1995
+21,Swindon Town,46,12,12,22,54,73,-19,48,Relegation to the Second Division,1994-1995
+22,Burnley,46,11,13,22,49,74,-25,46,Relegation to the Second Division,1994-1995
+23,Bristol City,46,11,12,23,42,63,-21,45,Relegation to the Second Division,1994-1995
+24,Notts County,46,9,13,24,45,66,-21,40,Relegation to the Second Division,1994-1995
+1,Sunderland,46,22,17,7,59,33,26,83,Promotion to the Premier League,1995-1996
+2,Derby County,46,21,16,9,71,51,20,79,Promotion to the Premier League,1995-1996
+3,Crystal Palace,46,20,15,11,67,48,19,75,Qualification for the First Division play-offs,1995-1996
+4,Stoke City,46,20,13,13,60,49,11,73,Qualification for the First Division play-offs,1995-1996
+5,Leicester City,46,19,14,13,66,60,6,71,Qualification for the First Division play-offs,1995-1996
+6,Charlton Athletic,46,17,20,9,57,45,12,71,Qualification for the First Division play-offs,1995-1996
+7,Ipswich Town,46,19,12,15,79,69,10,69,,1995-1996
+8,Huddersfield Town,46,17,12,17,61,58,3,63,,1995-1996
+9,Sheffield United,46,16,14,16,57,54,3,62,,1995-1996
+10,Barnsley,46,14,18,14,60,66,-6,60,,1995-1996
+11,West Bromwich Albion,46,16,12,18,60,68,-8,60,,1995-1996
+12,Port Vale,46,15,15,16,59,66,-7,60,,1995-1996
+13,Tranmere Rovers,46,14,17,15,64,60,4,59,,1995-1996
+14,Southend United,46,15,14,17,52,61,-9,59,,1995-1996
+15,Birmingham City,46,15,13,18,61,64,-3,58,,1995-1996
+16,Norwich City,46,14,15,17,59,55,4,57,,1995-1996
+17,Grimsby Town,46,14,14,18,55,69,-14,56,,1995-1996
+18,Oldham Athletic,46,14,14,18,54,50,4,56,,1995-1996
+19,Reading,46,13,17,16,54,63,-9,56,,1995-1996
+20,Wolverhampton Wanderers,46,13,16,17,56,62,-6,55,,1995-1996
+21,Portsmouth,46,13,13,20,61,69,-8,52,,1995-1996
+22,Millwall,46,13,13,20,43,63,-20,52,Relegation to the Second Division,1995-1996
+23,Watford,46,10,18,18,62,70,-8,48,Relegation to the Second Division,1995-1996
+24,Luton Town,46,11,12,23,40,64,-24,45,Relegation to the Second Division,1995-1996
+1,Bolton Wanderers,46,28,14,4,100,53,47,98,Promotion to the Premier League,1996-1997
+2,Barnsley,46,22,14,10,76,55,21,80,Promotion to the Premier League,1996-1997
+3,Wolverhampton Wanderers,46,22,10,14,68,51,17,76,Qualification for the First Division play-offs,1996-1997
+4,Ipswich Town,46,20,14,12,68,50,18,74,Qualification for the First Division play-offs,1996-1997
+5,Sheffield United,46,20,13,13,75,52,23,73,Qualification for the First Division play-offs,1996-1997
+6,Crystal Palace,46,19,14,13,78,48,30,71,Qualification for the First Division play-offs,1996-1997
+7,Portsmouth,46,20,8,18,59,53,6,68,,1996-1997
+8,Port Vale,46,17,16,13,58,55,3,67,,1996-1997
+9,Queens Park Rangers,46,18,12,16,64,60,4,66,,1996-1997
+10,Birmingham City,46,17,15,14,52,48,4,66,,1996-1997
+11,Tranmere Rovers,46,17,14,15,63,56,7,65,,1996-1997
+12,Stoke City,46,18,10,18,51,57,-6,64,,1996-1997
+13,Norwich City,46,17,12,17,63,68,-5,63,,1996-1997
+14,Manchester City,46,17,10,19,59,60,-1,61,,1996-1997
+15,Charlton Athletic,46,16,11,19,52,66,-14,59,,1996-1997
+16,West Bromwich Albion,46,14,15,17,68,72,-4,57,,1996-1997
+17,Oxford United,46,16,9,21,64,68,-4,57,,1996-1997
+18,Reading,46,15,12,19,58,67,-9,57,,1996-1997
+19,Swindon Town,46,15,9,22,52,71,-19,54,,1996-1997
+20,Huddersfield Town,46,13,15,18,48,61,-13,54,,1996-1997
+21,Bradford City,46,12,12,22,47,72,-25,48,,1996-1997
+22,Grimsby Town,46,11,13,22,59,81,-22,46,Relegation to the Second Division,1996-1997
+23,Oldham Athletic,46,10,13,23,51,66,-15,43,Relegation to the Second Division,1996-1997
+24,Southend United,46,8,15,23,42,85,-43,39,Relegation to the Second Division,1996-1997
+1,Nottingham Forest,46,28,10,8,82,42,40,94,Promotion to the Premier League,1997-1998
+2,Middlesbrough,46,27,10,9,77,41,36,91,Promotion to the Premier League,1997-1998
+3,Sunderland,46,26,12,8,86,50,36,90,Qualification for the First Division play-offs,1997-1998
+4,Charlton Athletic,46,26,10,10,80,49,31,88,Qualification for the First Division play-offs,1997-1998
+5,Ipswich Town,46,23,14,9,77,43,34,83,Qualification for the First Division play-offs,1997-1998
+6,Sheffield United,46,19,17,10,69,54,15,74,Qualification for the First Division play-offs,1997-1998
+7,Birmingham City,46,19,17,10,60,35,25,74,,1997-1998
+8,Stockport County,46,19,8,19,71,69,2,65,,1997-1998
+9,Wolverhampton Wanderers,46,18,11,17,57,53,4,65,,1997-1998
+10,West Bromwich Albion,46,16,13,17,50,56,-6,61,,1997-1998
+11,Crewe Alexandra,46,18,5,23,58,65,-7,59,,1997-1998
+12,Oxford United,46,16,10,20,60,64,-4,58,,1997-1998
+13,Bradford City,46,14,15,17,46,59,-13,57,,1997-1998
+14,Tranmere Rovers,46,14,14,18,54,57,-3,56,,1997-1998
+15,Norwich City,46,14,13,19,52,69,-17,55,,1997-1998
+16,Huddersfield Town,46,14,11,21,50,72,-22,53,,1997-1998
+17,Bury,46,11,19,16,42,58,-16,52,,1997-1998
+18,Swindon Town,46,14,10,22,42,73,-31,52,,1997-1998
+19,Port Vale,46,13,10,23,56,66,-10,49,,1997-1998
+20,Portsmouth,46,13,10,23,51,63,-12,49,,1997-1998
+21,Queens Park Rangers,46,10,19,17,51,63,-12,49,,1997-1998
+22,Manchester City,46,12,12,22,56,57,-1,48,Relegation to the Second Division,1997-1998
+23,Stoke City,46,11,13,22,44,74,-30,46,Relegation to the Second Division,1997-1998
+24,Reading,46,11,9,26,39,78,-39,42,Relegation to the Second Division,1997-1998
+1,Sunderland,46,31,12,3,91,28,63,105,Promotion to the Premier League,1998-1999
+2,Bradford City,46,26,9,11,82,47,35,87,Promotion to the Premier League,1998-1999
+3,Ipswich Town,46,26,8,12,69,32,37,86,Qualification for the First Division play-offs,1998-1999
+4,Birmingham City,46,23,12,11,66,37,29,81,Qualification for the First Division play-offs,1998-1999
+5,Watford,46,21,14,11,65,56,9,77,Qualification for the First Division play-offs,1998-1999
+6,Bolton Wanderers,46,20,16,10,78,59,19,76,Qualification for the First Division play-offs,1998-1999
+7,Wolverhampton Wanderers,46,19,16,11,64,43,21,73,,1998-1999
+8,Sheffield United,46,18,13,15,71,66,5,67,,1998-1999
+9,Norwich City,46,15,17,14,62,61,1,62,,1998-1999
+10,Huddersfield Town,46,15,16,15,62,71,-9,61,,1998-1999
+11,Grimsby Town,46,17,10,19,40,52,-12,61,,1998-1999
+12,West Bromwich Albion,46,16,11,19,69,76,-7,59,,1998-1999
+13,Barnsley,46,14,17,15,59,56,3,59,,1998-1999
+14,Crystal Palace,46,14,16,16,58,71,-13,58,,1998-1999
+15,Tranmere Rovers,46,12,20,14,63,61,2,56,,1998-1999
+16,Stockport County,46,12,17,17,49,60,-11,53,,1998-1999
+17,Swindon Town,46,13,11,22,59,81,-22,50,,1998-1999
+18,Crewe Alexandra,46,12,12,22,54,78,-24,48,,1998-1999
+19,Portsmouth,46,11,14,21,57,73,-16,47,,1998-1999
+20,Queens Park Rangers,46,12,11,23,52,61,-9,47,,1998-1999
+21,Port Vale,46,13,8,25,45,75,-30,47,,1998-1999
+22,Bury,46,10,17,19,35,60,-25,47,Relegation to the Second Division,1998-1999
+23,Oxford United,46,10,14,22,48,71,-23,44,Relegation to the Second Division,1998-1999
+24,Bristol City,46,9,15,22,57,80,-23,42,Relegation to the Second Division,1998-1999
+1,Charlton Athletic,46,27,10,9,79,45,34,91,Promotion to the Premier League,1999-2000
+2,Manchester City,46,26,11,9,78,40,38,89,Promotion to the Premier League,1999-2000
+3,Ipswich Town,46,25,12,9,71,42,29,87,Qualification for the First Division play-offs,1999-2000
+4,Barnsley,46,24,10,12,88,67,21,82,Qualification for the First Division play-offs,1999-2000
+5,Birmingham City,46,22,11,13,65,44,21,77,Qualification for the First Division play-offs,1999-2000
+6,Bolton Wanderers,46,21,13,12,69,50,19,76,Qualification for the First Division play-offs,1999-2000
+7,Wolverhampton Wanderers,46,21,11,14,64,48,16,74,,1999-2000
+8,Huddersfield Town,46,21,11,14,62,49,13,74,,1999-2000
+9,Fulham,46,17,16,13,49,41,8,67,,1999-2000
+10,Queens Park Rangers,46,16,18,12,62,53,9,66,,1999-2000
+11,Blackburn Rovers,46,15,17,14,55,51,4,62,,1999-2000
+12,Norwich City,46,14,15,17,45,50,-5,57,,1999-2000
+13,Tranmere Rovers,46,15,12,19,57,68,-11,57,,1999-2000
+14,Nottingham Forest,46,14,14,18,53,55,-2,56,,1999-2000
+15,Crystal Palace,46,13,15,18,57,67,-10,54,,1999-2000
+16,Sheffield United,46,13,15,18,59,71,-12,54,,1999-2000
+17,Stockport County,46,13,15,18,55,67,-12,54,,1999-2000
+18,Portsmouth,46,13,12,21,55,66,-11,51,,1999-2000
+19,Crewe Alexandra,46,14,9,23,46,67,-21,51,,1999-2000
+20,Grimsby Town,46,13,12,21,41,67,-26,51,,1999-2000
+21,West Bromwich Albion,46,10,19,17,43,60,-17,49,,1999-2000
+22,Walsall,46,11,13,22,52,77,-25,46,Relegation to the Second Division,1999-2000
+23,Port Vale,46,7,15,24,48,69,-21,36,Relegation to the Second Division,1999-2000
+24,Swindon Town,46,8,12,26,38,77,-39,36,Relegation to the Second Division,1999-2000
+1,Fulham,46,30,11,5,90,32,58,101,Promotion to the Premier League,2000-2001
+2,Blackburn Rovers,46,26,13,7,76,39,37,91,Promotion to the Premier League,2000-2001
+3,Bolton Wanderers,46,24,15,7,76,45,31,87,Qualification for the First Division play-offs,2000-2001
+4,Preston North End,46,23,9,14,64,52,12,78,Qualification for the First Division play-offs,2000-2001
+5,Birmingham City,46,23,9,14,59,48,11,78,Qualification for the First Division play-offs,2000-2001
+6,West Bromwich Albion,46,21,11,14,60,52,8,74,Qualification for the First Division play-offs,2000-2001
+7,Burnley,46,21,9,16,50,54,-4,72,,2000-2001
+8,Wimbledon,46,17,18,11,71,50,21,69,,2000-2001
+9,Watford,46,20,9,17,76,67,9,69,,2000-2001
+10,Sheffield United,46,19,11,16,52,49,3,68,,2000-2001
+11,Nottingham Forest,46,20,8,18,55,53,2,68,,2000-2001
+12,Wolverhampton Wanderers,46,14,13,19,45,48,-3,55,,2000-2001
+13,Gillingham,46,13,16,17,61,66,-5,55,,2000-2001
+14,Crewe Alexandra,46,15,10,21,47,62,-15,55,,2000-2001
+15,Norwich City,46,14,12,20,46,58,-12,54,,2000-2001
+16,Barnsley,46,15,9,22,49,62,-13,54,,2000-2001
+17,Sheffield Wednesday,46,15,8,23,52,71,-19,53,,2000-2001
+18,Grimsby Town,46,14,10,22,43,62,-19,52,,2000-2001
+19,Stockport County,46,11,18,17,58,65,-7,51,,2000-2001
+20,Portsmouth,46,10,19,17,47,59,-12,49,,2000-2001
+21,Crystal Palace,46,12,13,21,57,70,-13,49,,2000-2001
+22,Huddersfield Town,46,11,15,20,48,57,-9,48,Relegation to the Second Division,2000-2001
+23,Queens Park Rangers,46,7,19,20,45,75,-30,40,Relegation to the Second Division,2000-2001
+24,Tranmere Rovers,46,9,11,26,46,77,-31,38,Relegation to the Second Division,2000-2001
+1,Manchester City,46,31,6,9,108,52,56,99,Promotion to the Premier League,2001-2002
+2,West Bromwich Albion,46,27,8,11,61,29,32,89,Promotion to the Premier League,2001-2002
+3,Wolverhampton Wanderers,46,25,11,10,76,43,33,86,Qualification for the First Division play-offs,2001-2002
+4,Millwall,46,22,11,13,69,48,21,77,Qualification for the First Division play-offs,2001-2002
+5,Birmingham City,46,21,13,12,70,49,21,76,Qualification for the First Division play-offs,2001-2002
+6,Norwich City,46,22,9,15,60,51,9,75,Qualification for the First Division play-offs,2001-2002
+7,Burnley,46,21,12,13,70,62,8,75,,2001-2002
+8,Preston North End,46,20,12,14,71,59,12,72,,2001-2002
+9,Wimbledon,46,18,13,15,63,57,6,67,,2001-2002
+10,Crystal Palace,46,20,6,20,70,62,8,66,,2001-2002
+11,Coventry City,46,20,6,20,59,53,6,66,,2001-2002
+12,Gillingham,46,18,10,18,64,67,-3,64,,2001-2002
+13,Sheffield United,46,15,15,16,53,54,-1,60,,2001-2002
+14,Watford,46,16,11,19,62,56,6,59,,2001-2002
+15,Bradford City,46,15,10,21,69,76,-7,55,,2001-2002
+16,Nottingham Forest,46,12,18,16,50,51,-1,54,,2001-2002
+17,Portsmouth,46,13,14,19,60,72,-12,53,,2001-2002
+18,Walsall,46,13,12,21,51,71,-20,51,,2001-2002
+19,Grimsby Town,46,12,14,20,50,72,-22,50,,2001-2002
+20,Sheffield Wednesday,46,12,14,20,49,71,-22,50,,2001-2002
+21,Rotherham United,46,10,19,17,52,66,-14,49,,2001-2002
+22,Crewe Alexandra,46,12,13,21,47,76,-29,49,Relegation to the Second Division,2001-2002
+23,Barnsley,46,11,15,20,59,86,-27,48,Relegation to the Second Division,2001-2002
+24,Stockport County,46,6,8,32,42,102,-60,26,Relegation to the Second Division,2001-2002
+1,Portsmouth,46,29,11,6,97,45,52,98,Promotion to 2003–04 FA Premier League,2002-2003
+2,Leicester City,46,26,14,6,73,40,33,92,Promotion to 2003–04 FA Premier League,2002-2003
+3,Sheffield United,46,23,11,12,72,52,20,80,Qualification for First Division Playoffs,2002-2003
+4,Reading,46,25,4,17,61,46,15,79,Qualification for First Division Playoffs,2002-2003
+5,Wolverhampton Wanderers,46,20,16,10,81,44,37,76,Qualification for First Division Playoffs,2002-2003
+6,Nottingham Forest,46,20,14,12,82,50,32,74,Qualification for First Division Playoffs,2002-2003
+7,Ipswich Town,46,19,13,14,80,64,16,70,,2002-2003
+8,Norwich City,46,19,12,15,60,49,11,69,,2002-2003
+9,Millwall,46,19,9,18,59,69,-10,66,,2002-2003
+10,Wimbledon,46,18,11,17,76,73,3,65,,2002-2003
+11,Gillingham,46,16,14,16,56,65,-9,62,,2002-2003
+12,Preston North End,46,16,13,17,68,70,-2,61,,2002-2003
+13,Watford,46,17,9,20,54,70,-16,60,,2002-2003
+14,Crystal Palace,46,14,17,15,59,52,7,59,,2002-2003
+15,Rotherham United,46,15,14,17,62,62,0,59,,2002-2003
+16,Burnley,46,15,10,21,65,89,-24,55,,2002-2003
+17,Walsall,46,15,9,22,57,69,-12,54,,2002-2003
+18,Derby County,46,15,7,24,55,74,-19,52,,2002-2003
+19,Bradford City,46,14,10,22,51,73,-22,52,,2002-2003
+20,Coventry City,46,12,14,20,46,62,-16,50,,2002-2003
+21,Stoke City,46,12,14,20,45,69,-24,50,,2002-2003
+22,Sheffield Wednesday,46,10,16,20,56,73,-17,46,Relegation to 2003–04 Second Division,2002-2003
+23,Brighton & Hove Albion,46,11,12,23,49,67,-18,45,Relegation to 2003–04 Second Division,2002-2003
+24,Grimsby Town,46,9,12,25,48,85,-37,39,Relegation to 2003–04 Second Division,2002-2003
+1,Norwich City,46,28,10,8,79,39,40,94,Promotion to the FA Premier League,2003-2004
+2,West Bromwich Albion,46,25,11,10,64,42,22,86,Promotion to the FA Premier League,2003-2004
+3,Sunderland,46,22,13,11,62,45,17,79,Qualification for the First Division play-offs,2003-2004
+4,West Ham United,46,19,17,10,67,45,22,74,Qualification for the First Division play-offs,2003-2004
+5,Ipswich Town,46,21,10,15,84,72,12,73,Qualification for the First Division play-offs,2003-2004
+6,Crystal Palace,46,21,10,15,72,61,11,73,Qualification for the First Division play-offs,2003-2004
+7,Wigan Athletic,46,18,17,11,60,45,15,71,,2003-2004
+8,Sheffield United,46,20,11,15,65,56,9,71,,2003-2004
+9,Reading,46,20,10,16,55,57,-2,70,,2003-2004
+10,Millwall,46,18,15,13,55,48,7,69,Qualification for the UEFA Cup first round,2003-2004
+11,Stoke City,46,18,12,16,58,55,3,66,,2003-2004
+12,Coventry City,46,17,14,15,67,54,13,65,,2003-2004
+13,Cardiff City,46,17,14,15,68,58,10,65,,2003-2004
+14,Nottingham Forest,46,15,15,16,61,58,3,60,,2003-2004
+15,Preston North End,46,15,14,17,69,71,-2,59,,2003-2004
+16,Watford,46,15,12,19,54,68,-14,57,,2003-2004
+17,Rotherham United,46,13,15,18,53,61,-8,54,,2003-2004
+18,Crewe Alexandra,46,14,11,21,57,66,-9,53,,2003-2004
+19,Burnley,46,13,14,19,60,77,-17,53,,2003-2004
+20,Derby County,46,13,13,20,53,67,-14,52,,2003-2004
+21,Gillingham,46,14,9,23,48,67,-19,51,,2003-2004
+22,Walsall,46,13,12,21,45,65,-20,51,Relegation to Football League One,2003-2004
+23,Bradford City,46,10,6,30,38,69,-31,36,Relegation to Football League One,2003-2004
+24,Wimbledon,46,8,5,33,41,89,-48,29,Renamed Milton Keynes Dons in Football League One,2003-2004
+1,Sunderland,46,29,7,10,76,41,35,94,Promotion to the FA Premier League,2004-2005
+2,Wigan Athletic,46,25,12,9,79,35,44,87,Promotion to the FA Premier League,2004-2005
+3,Ipswich Town,46,24,13,9,85,56,29,85,Qualification for Championship play-offs,2004-2005
+4,Derby County,46,22,10,14,71,60,11,76,Qualification for Championship play-offs,2004-2005
+5,Preston North End,46,21,12,13,67,58,9,75,Qualification for Championship play-offs,2004-2005
+6,West Ham United,46,21,10,15,66,56,10,73,Qualification for Championship play-offs,2004-2005
+7,Reading,46,19,13,14,51,44,7,70,,2004-2005
+8,Sheffield United,46,18,13,15,57,56,1,67,,2004-2005
+9,Wolverhampton Wanderers,46,15,21,10,72,59,13,66,,2004-2005
+10,Millwall,46,18,12,16,51,45,6,66,,2004-2005
+11,Queens Park Rangers,46,17,11,18,54,58,-4,62,,2004-2005
+12,Stoke City,46,17,10,19,36,38,-2,61,,2004-2005
+13,Burnley,46,15,15,16,38,39,-1,60,,2004-2005
+14,Leeds United,46,14,18,14,49,52,-3,60,,2004-2005
+15,Leicester City,46,12,21,13,49,46,3,57,,2004-2005
+16,Cardiff City,46,13,15,18,48,51,-3,54,,2004-2005
+17,Plymouth Argyle,46,14,11,21,52,64,-12,53,,2004-2005
+18,Watford,46,12,16,18,52,59,-7,52,,2004-2005
+19,Coventry City,46,13,13,20,61,73,-12,52,,2004-2005
+20,Brighton & Hove Albion,46,13,12,21,40,65,-25,51,,2004-2005
+21,Crewe Alexandra,46,12,14,20,66,86,-20,50,,2004-2005
+22,Gillingham,46,12,14,20,45,66,-21,50,Relegation to Football League One,2004-2005
+23,Nottingham Forest,46,9,17,20,42,66,-24,44,Relegation to Football League One,2004-2005
+24,Rotherham United,46,5,14,27,35,69,-34,29,Relegation to Football League One,2004-2005
+1,Reading,46,31,13,2,99,32,67,106,Promotion to the FA Premier League,2005-2006
+2,Sheffield United,46,26,12,8,76,46,30,90,Promotion to the FA Premier League,2005-2006
+3,Watford,46,22,15,9,77,53,24,81,Qualification for Championship play-offs,2005-2006
+4,Preston North End,46,20,20,6,59,30,29,80,Qualification for Championship play-offs,2005-2006
+5,Leeds United,46,21,15,10,57,38,19,78,Qualification for Championship play-offs,2005-2006
+6,Crystal Palace,46,21,12,13,67,48,19,75,Qualification for Championship play-offs,2005-2006
+7,Wolverhampton Wanderers,46,16,19,11,50,42,8,67,,2005-2006
+8,Coventry City,46,16,15,15,62,65,-3,63,,2005-2006
+9,Norwich City,46,18,8,20,56,65,-9,62,,2005-2006
+10,Luton Town,46,17,10,19,66,67,-1,61,,2005-2006
+11,Cardiff City,46,16,12,18,58,59,-1,60,,2005-2006
+12,Southampton,46,13,19,14,49,50,-1,58,,2005-2006
+13,Stoke City,46,17,7,22,54,63,-9,58,,2005-2006
+14,Plymouth Argyle,46,13,17,16,39,46,-7,56,,2005-2006
+15,Ipswich Town,46,14,14,18,53,66,-13,56,,2005-2006
+16,Leicester City,46,13,15,18,51,59,-8,54,,2005-2006
+17,Burnley,46,14,12,20,46,54,-8,54,,2005-2006
+18,Hull City,46,12,16,18,49,55,-6,52,,2005-2006
+19,Sheffield Wednesday,46,13,13,20,39,52,-13,52,,2005-2006
+20,Derby County,46,10,20,16,53,67,-14,50,,2005-2006
+21,Queens Park Rangers,46,12,14,20,50,65,-15,50,,2005-2006
+22,Crewe Alexandra,46,9,15,22,57,86,-29,42,Relegation to Football League One,2005-2006
+23,Millwall,46,8,16,22,35,62,-27,40,Relegation to Football League One,2005-2006
+24,Brighton & Hove Albion,46,7,17,22,39,71,-32,38,Relegation to Football League One,2005-2006
+1,Sunderland,46,27,7,12,76,47,29,88,Promotion to the Premier League,2006-2007
+2,Birmingham City,46,26,8,12,67,42,25,86,Promotion to the Premier League,2006-2007
+3,Derby County,46,25,9,12,62,46,16,84,Qualification for Championship play-offs,2006-2007
+4,West Bromwich Albion,46,22,10,14,81,55,26,76,Qualification for Championship play-offs,2006-2007
+5,Wolverhampton Wanderers,46,22,10,14,59,56,3,76,Qualification for Championship play-offs,2006-2007
+6,Southampton,46,21,12,13,77,53,24,75,Qualification for Championship play-offs,2006-2007
+7,Preston North End,46,22,8,16,64,53,11,74,,2006-2007
+8,Stoke City,46,19,16,11,62,41,21,73,,2006-2007
+9,Sheffield Wednesday,46,20,11,15,70,66,4,71,,2006-2007
+10,Colchester United,46,20,9,17,70,56,14,69,,2006-2007
+11,Plymouth Argyle,46,17,16,13,63,62,1,67,,2006-2007
+12,Crystal Palace,46,18,11,17,58,50,8,65,,2006-2007
+13,Cardiff City,46,17,13,16,57,53,4,64,,2006-2007
+14,Ipswich Town,46,18,8,20,64,59,5,62,,2006-2007
+15,Burnley,46,15,12,19,52,49,3,57,,2006-2007
+16,Norwich City,46,16,9,21,56,71,-15,57,,2006-2007
+17,Coventry City,46,16,8,22,47,62,-15,56,,2006-2007
+18,Queens Park Rangers,46,14,11,21,54,68,-14,53,,2006-2007
+19,Leicester City,46,13,14,19,49,64,-15,53,,2006-2007
+20,Barnsley,46,15,5,26,53,85,-32,50,,2006-2007
+21,Hull City,46,13,10,23,51,67,-16,49,,2006-2007
+22,Southend United,46,10,12,24,47,80,-33,42,Relegation to Football League One,2006-2007
+23,Luton Town,46,10,10,26,53,81,-28,40,Relegation to Football League One,2006-2007
+24,Leeds United,46,13,7,26,46,72,-26,36,Relegation to Football League One,2006-2007
+1,West Bromwich Albion,46,23,12,11,88,55,33,81,Promotion to the Premier League,2007-2008
+2,Stoke City,46,21,16,9,69,55,14,79,Promotion to the Premier League,2007-2008
+3,Hull City,46,21,12,13,65,47,18,75,Qualification for Championship play-offs,2007-2008
+4,Bristol City,46,20,14,12,54,53,1,74,Qualification for Championship play-offs,2007-2008
+5,Crystal Palace,46,18,17,11,58,42,16,71,Qualification for Championship play-offs,2007-2008
+6,Watford,46,18,16,12,62,56,6,70,Qualification for Championship play-offs,2007-2008
+7,Wolverhampton Wanderers,46,18,16,12,53,48,5,70,,2007-2008
+8,Ipswich Town,46,18,15,13,65,56,9,69,,2007-2008
+9,Sheffield United,46,17,15,14,56,51,5,66,,2007-2008
+10,Plymouth Argyle,46,17,13,16,60,50,10,64,,2007-2008
+11,Charlton Athletic,46,17,13,16,63,58,5,64,,2007-2008
+12,Cardiff City,46,16,16,14,59,55,4,64,,2007-2008
+13,Burnley,46,16,14,16,60,67,-7,62,,2007-2008
+14,Queens Park Rangers,46,14,16,16,60,66,-6,58,,2007-2008
+15,Preston North End,46,15,11,20,50,56,-6,56,,2007-2008
+16,Sheffield Wednesday,46,14,13,19,54,55,-1,55,,2007-2008
+17,Norwich City,46,15,10,21,49,59,-10,55,,2007-2008
+18,Barnsley,46,14,13,19,52,65,-13,55,,2007-2008
+19,Blackpool,46,12,18,16,59,64,-5,54,,2007-2008
+20,Southampton,46,13,15,18,56,72,-16,54,,2007-2008
+21,Coventry City,46,14,11,21,52,64,-12,53,,2007-2008
+22,Leicester City,46,12,16,18,42,45,-3,52,Relegation to Football League One,2007-2008
+23,Scunthorpe United,46,11,13,22,46,69,-23,46,Relegation to Football League One,2007-2008
+24,Colchester United,46,7,17,22,62,86,-24,38,Relegation to Football League One,2007-2008
+1,Wolverhampton Wanderers,46,27,9,10,80,52,28,90,Promotion to the Premier League,2008-2009
+2,Birmingham City,46,23,14,9,54,37,17,83,Promotion to the Premier League,2008-2009
+3,Sheffield United,46,22,14,10,64,39,25,80,Qualification for Championship play-offs,2008-2009
+4,Reading,46,21,14,11,72,40,32,77,Qualification for Championship play-offs,2008-2009
+5,Burnley,46,21,13,12,72,60,12,76,Qualification for Championship play-offs,2008-2009
+6,Preston North End,46,21,11,14,66,54,12,74,Qualification for Championship play-offs,2008-2009
+7,Cardiff City,46,19,17,10,65,53,12,74,,2008-2009
+8,Swansea City,46,16,20,10,63,50,13,68,,2008-2009
+9,Ipswich Town,46,17,15,14,62,53,9,66,,2008-2009
+10,Bristol City,46,15,16,15,54,54,0,61,,2008-2009
+11,Queens Park Rangers,46,15,16,15,42,44,-2,61,,2008-2009
+12,Sheffield Wednesday,46,16,13,17,51,58,-7,61,,2008-2009
+13,Watford,46,16,10,20,68,72,-4,58,,2008-2009
+14,Doncaster Rovers,46,17,7,22,42,53,-11,58,,2008-2009
+15,Crystal Palace,46,15,12,19,52,55,-3,56,,2008-2009
+16,Blackpool,46,13,17,16,47,58,-11,56,,2008-2009
+17,Coventry City,46,13,15,18,47,58,-11,54,,2008-2009
+18,Derby County,46,14,12,20,55,67,-12,54,,2008-2009
+19,Nottingham Forest,46,13,14,19,50,65,-15,53,,2008-2009
+20,Barnsley,46,13,13,20,45,58,-13,52,,2008-2009
+21,Plymouth Argyle,46,13,12,21,44,57,-13,51,,2008-2009
+22,Norwich City,46,12,10,24,57,70,-13,46,Relegation to Football League One,2008-2009
+23,Southampton,46,10,15,21,46,69,-23,45,Relegation to Football League One,2008-2009
+24,Charlton Athletic,46,8,15,23,52,74,-22,39,Relegation to Football League One,2008-2009
+1,Newcastle United,46,30,12,4,90,35,55,102,Promotion to the Premier League,2009-2010
+2,West Bromwich Albion,46,26,13,7,89,48,41,91,Promotion to the Premier League,2009-2010
+3,Nottingham Forest,46,22,13,11,65,40,25,79,Qualification for Championship play-offs,2009-2010
+4,Cardiff City,46,22,10,14,73,54,19,76,Qualification for Championship play-offs,2009-2010
+5,Leicester City,46,21,13,12,61,45,16,76,Qualification for Championship play-offs,2009-2010
+6,Blackpool,46,19,13,14,74,58,16,70,Qualification for Championship play-offs,2009-2010
+7,Swansea City,46,17,18,11,40,37,3,69,,2009-2010
+8,Sheffield United,46,17,14,15,62,55,7,65,,2009-2010
+9,Reading,46,17,12,17,68,63,5,63,,2009-2010
+10,Bristol City,46,15,18,13,56,65,-9,63,,2009-2010
+11,Middlesbrough,46,16,14,16,58,50,8,62,,2009-2010
+12,Doncaster Rovers,46,15,15,16,59,58,1,60,,2009-2010
+13,Queens Park Rangers,46,14,15,17,58,65,-7,57,,2009-2010
+14,Derby County,46,15,11,20,53,63,-10,56,,2009-2010
+15,Ipswich Town,46,12,20,14,50,61,-11,56,,2009-2010
+16,Watford,46,14,12,20,61,68,-7,54,,2009-2010
+17,Preston North End,46,13,15,18,58,73,-15,54,,2009-2010
+18,Barnsley,46,14,12,20,53,69,-16,54,,2009-2010
+19,Coventry City,46,13,15,18,47,64,-17,54,,2009-2010
+20,Scunthorpe United,46,14,10,22,62,84,-22,52,,2009-2010
+21,Crystal Palace,46,14,17,15,50,53,-3,49,,2009-2010
+22,Sheffield Wednesday,46,11,14,21,49,69,-20,47,Relegation to Football League One,2009-2010
+23,Plymouth Argyle,46,11,8,27,43,68,-25,41,Relegation to Football League One,2009-2010
+24,Peterborough United,46,8,10,28,46,80,-34,34,Relegation to Football League One,2009-2010
+1,Queens Park Rangers,46,24,16,6,71,32,39,88,Promotion to the Premier League,2010-2011
+2,Norwich City,46,23,15,8,83,58,25,84,Promotion to the Premier League,2010-2011
+3,Swansea City,46,24,8,14,69,42,27,80,Qualification for Championship play-offs,2010-2011
+4,Cardiff City,46,23,11,12,76,54,22,80,Qualification for Championship play-offs,2010-2011
+5,Reading,46,20,17,9,77,51,26,77,Qualification for Championship play-offs,2010-2011
+6,Nottingham Forest,46,20,15,11,69,50,19,75,Qualification for Championship play-offs,2010-2011
+7,Leeds United,46,19,15,12,81,70,11,72,,2010-2011
+8,Burnley,46,18,14,14,65,61,4,68,,2010-2011
+9,Millwall,46,18,13,15,62,48,14,67,,2010-2011
+10,Leicester City,46,19,10,17,76,71,5,67,,2010-2011
+11,Hull City,46,16,17,13,52,51,1,65,,2010-2011
+12,Middlesbrough,46,17,11,18,68,68,0,62,,2010-2011
+13,Ipswich Town,46,18,8,20,62,68,-6,62,,2010-2011
+14,Watford,46,16,13,17,77,71,6,61,,2010-2011
+15,Bristol City,46,17,9,20,62,65,-3,60,,2010-2011
+16,Portsmouth,46,15,13,18,53,60,-7,58,,2010-2011
+17,Barnsley,46,14,14,18,55,66,-11,56,,2010-2011
+18,Coventry City,46,14,13,19,54,58,-4,55,,2010-2011
+19,Derby County,46,13,10,23,58,71,-13,49,,2010-2011
+20,Crystal Palace,46,12,12,22,44,69,-25,48,,2010-2011
+21,Doncaster Rovers,46,11,15,20,55,81,-26,48,,2010-2011
+22,Preston North End,46,10,12,24,54,79,-25,42,Relegation to Football League One,2010-2011
+23,Sheffield United,46,11,9,26,44,79,-35,42,Relegation to Football League One,2010-2011
+24,Scunthorpe United,46,12,6,28,43,87,-44,42,Relegation to Football League One,2010-2011
+1,Reading,46,27,8,11,69,41,28,89,Promotion to the Premier League,2011-2012
+2,Southampton,46,26,10,10,85,46,39,88,Promotion to the Premier League,2011-2012
+3,West Ham United,46,24,14,8,81,48,33,86,Qualification for Championship play-offs,2011-2012
+4,Birmingham City,46,20,16,10,78,51,27,76,Qualification for Championship play-offs,2011-2012
+5,Blackpool,46,20,15,11,79,59,20,75,Qualification for Championship play-offs,2011-2012
+6,Cardiff City,46,19,18,9,66,53,13,75,Qualification for Championship play-offs,2011-2012
+7,Middlesbrough,46,18,16,12,52,51,1,70,,2011-2012
+8,Hull City,46,19,11,16,47,44,3,68,,2011-2012
+9,Leicester City,46,18,12,16,66,55,11,66,,2011-2012
+10,Brighton & Hove Albion,46,17,15,14,52,52,0,66,,2011-2012
+11,Watford,46,16,16,14,56,64,-8,64,,2011-2012
+12,Derby County,46,18,10,18,50,58,-8,64,,2011-2012
+13,Burnley,46,17,11,18,61,58,3,62,,2011-2012
+14,Leeds United,46,17,10,19,65,68,-3,61,,2011-2012
+15,Ipswich Town,46,17,10,19,69,77,-8,61,,2011-2012
+16,Millwall,46,15,12,19,55,57,-2,57,,2011-2012
+17,Crystal Palace,46,13,17,16,46,51,-5,56,,2011-2012
+18,Peterborough United,46,13,11,22,67,77,-10,50,,2011-2012
+19,Nottingham Forest,46,14,8,24,48,63,-15,50,,2011-2012
+20,Bristol City,46,12,13,21,44,68,-24,49,,2011-2012
+21,Barnsley,46,13,9,24,49,74,-25,48,,2011-2012
+22,Portsmouth,46,13,11,22,50,59,-9,40,Relegation to League One,2011-2012
+23,Coventry City,46,9,13,24,41,65,-24,40,Relegation to League One,2011-2012
+24,Doncaster Rovers,46,8,12,26,43,80,-37,36,Relegation to League One,2011-2012
+1,Cardiff City,46,25,12,9,72,45,27,87,Promotion to the Premier League,2012-2013
+2,Hull City,46,24,7,15,61,52,9,79,Promotion to the Premier League,2012-2013
+3,Watford,46,23,8,15,85,58,27,77,Qualification for Championship play-offs,2012-2013
+4,Brighton & Hove Albion,46,19,18,9,69,43,26,75,Qualification for Championship play-offs,2012-2013
+5,Crystal Palace,46,19,15,12,73,62,11,72,Qualification for Championship play-offs,2012-2013
+6,Leicester City,46,19,11,16,71,48,23,68,Qualification for Championship play-offs,2012-2013
+7,Bolton Wanderers,46,18,14,14,69,61,8,68,,2012-2013
+8,Nottingham Forest,46,17,16,13,63,59,4,67,,2012-2013
+9,Charlton Athletic,46,17,14,15,65,59,6,65,,2012-2013
+10,Derby County,46,16,13,17,65,62,3,61,,2012-2013
+11,Burnley,46,16,13,17,62,60,2,61,,2012-2013
+12,Birmingham City,46,15,16,15,63,69,-6,61,,2012-2013
+13,Leeds United,46,17,10,19,57,66,-9,61,,2012-2013
+14,Ipswich Town,46,16,12,18,48,61,-13,60,,2012-2013
+15,Blackpool,46,14,17,15,62,63,-1,59,,2012-2013
+16,Middlesbrough,46,18,5,23,61,70,-9,59,,2012-2013
+17,Blackburn Rovers,46,14,16,16,55,62,-7,58,,2012-2013
+18,Sheffield Wednesday,46,16,10,20,53,61,-8,58,,2012-2013
+19,Huddersfield Town,46,15,13,18,53,73,-20,58,,2012-2013
+20,Millwall,46,15,11,20,51,62,-11,56,,2012-2013
+21,Barnsley,46,14,13,19,56,70,-14,55,,2012-2013
+22,Peterborough United,46,15,9,22,66,75,-9,54,Relegation to Football League One,2012-2013
+23,Wolverhampton Wanderers,46,14,9,23,55,69,-14,51,Relegation to Football League One,2012-2013
+24,Bristol City,46,11,8,27,59,84,-25,41,Relegation to Football League One,2012-2013
+1,Leicester City,46,31,9,6,83,43,40,102,Promotion to the Premier League,2013-2014
+2,Burnley,46,26,15,5,72,37,35,93,Promotion to the Premier League,2013-2014
+3,Derby County,46,25,10,11,84,52,32,85,Qualification for Championship play-offs,2013-2014
+4,Queens Park Rangers,46,23,11,12,60,44,16,80,Qualification for Championship play-offs,2013-2014
+5,Wigan Athletic,46,21,10,15,61,48,13,73,Qualification for Championship play-offs,2013-2014
+6,Brighton & Hove Albion,46,19,15,12,55,40,15,72,Qualification for Championship play-offs,2013-2014
+7,Reading,46,19,14,13,70,56,14,71,,2013-2014
+8,Blackburn Rovers,46,18,16,12,70,62,8,70,,2013-2014
+9,Ipswich Town,46,18,14,14,60,54,6,68,,2013-2014
+10,Bournemouth,46,18,12,16,67,66,1,66,,2013-2014
+11,Nottingham Forest,46,16,17,13,67,64,3,65,,2013-2014
+12,Middlesbrough,46,16,16,14,62,50,12,64,,2013-2014
+13,Watford,46,15,15,16,74,64,10,60,,2013-2014
+14,Bolton Wanderers,46,14,17,15,59,60,-1,59,,2013-2014
+15,Leeds United,46,16,9,21,59,67,-8,57,,2013-2014
+16,Sheffield Wednesday,46,13,14,19,63,65,-2,53,,2013-2014
+17,Huddersfield Town,46,14,11,21,58,65,-7,53,,2013-2014
+18,Charlton Athletic,46,13,12,21,41,61,-20,51,,2013-2014
+19,Millwall,46,11,15,20,46,74,-28,48,,2013-2014
+20,Blackpool,46,11,13,22,38,66,-28,46,,2013-2014
+21,Birmingham City,46,11,11,24,58,74,-16,44,,2013-2014
+22,Doncaster Rovers,46,11,11,24,39,70,-31,44,Relegation to Football League One,2013-2014
+23,Barnsley,46,9,12,25,44,77,-33,39,Relegation to Football League One,2013-2014
+24,Yeovil Town,46,8,13,25,44,75,-31,37,Relegation to Football League One,2013-2014
+1,Bournemouth,46,26,12,8,98,45,53,90,Promotion to the Premier League,2014-2015
+2,Watford,46,27,8,11,91,50,41,89,Promotion to the Premier League,2014-2015
+3,Norwich City,46,25,11,10,88,48,40,86,Qualification for Championship play-offs,2014-2015
+4,Middlesbrough,46,25,10,11,68,37,31,85,Qualification for Championship play-offs,2014-2015
+5,Brentford,46,23,9,14,78,59,19,78,Qualification for Championship play-offs,2014-2015
+6,Ipswich Town,46,22,12,12,72,54,18,78,Qualification for Championship play-offs,2014-2015
+7,Wolverhampton Wanderers,46,22,12,12,70,56,14,78,,2014-2015
+8,Derby County,46,21,14,11,85,56,29,77,,2014-2015
+9,Blackburn Rovers,46,17,16,13,66,59,7,67,,2014-2015
+10,Birmingham City,46,16,15,15,54,64,-10,63,,2014-2015
+11,Cardiff City,46,16,14,16,57,61,-4,62,,2014-2015
+12,Charlton Athletic,46,14,18,14,54,60,-6,60,,2014-2015
+13,Sheffield Wednesday,46,14,18,14,43,49,-6,60,,2014-2015
+14,Nottingham Forest,46,15,14,17,71,69,2,59,,2014-2015
+15,Leeds United,46,15,11,20,50,61,-11,56,,2014-2015
+16,Huddersfield Town,46,13,16,17,58,75,-17,55,,2014-2015
+17,Fulham,46,14,10,22,62,83,-21,52,,2014-2015
+18,Bolton Wanderers,46,13,12,21,54,67,-13,51,,2014-2015
+19,Reading,46,13,11,22,48,69,-21,50,,2014-2015
+20,Brighton & Hove Albion,46,10,17,19,44,54,-10,47,,2014-2015
+21,Rotherham United,46,11,16,19,46,67,-21,46,,2014-2015
+22,Millwall,46,9,14,23,42,76,-34,41,Relegation to Football League One,2014-2015
+23,Wigan Athletic,46,9,12,25,39,64,-25,39,Relegation to Football League One,2014-2015
+24,Blackpool,46,4,14,28,36,91,-55,26,Relegation to Football League One,2014-2015
+1,Burnley,46,26,15,5,72,35,37,93,Promotion to the Premier League,2015-2016
+2,Middlesbrough,46,26,11,9,63,31,32,89,Promotion to the Premier League,2015-2016
+3,Brighton & Hove Albion,46,24,17,5,72,42,30,89,Qualification for the Championship play-offs,2015-2016
+4,Hull City,46,24,11,11,69,35,34,83,Qualification for the Championship play-offs,2015-2016
+5,Derby County,46,21,15,10,66,43,23,78,Qualification for the Championship play-offs,2015-2016
+6,Sheffield Wednesday,46,19,17,10,66,45,21,74,Qualification for the Championship play-offs,2015-2016
+7,Ipswich Town,46,18,15,13,53,51,2,69,,2015-2016
+8,Cardiff City,46,17,17,12,56,51,5,68,,2015-2016
+9,Brentford,46,19,8,19,72,67,5,65,,2015-2016
+10,Birmingham City,46,16,15,15,53,49,4,63,,2015-2016
+11,Preston North End,46,15,17,14,45,45,0,62,,2015-2016
+12,Queens Park Rangers,46,14,18,14,54,54,0,60,,2015-2016
+13,Leeds United,46,14,17,15,50,58,-8,59,,2015-2016
+14,Wolverhampton Wanderers,46,14,16,16,53,58,-5,58,,2015-2016
+15,Blackburn Rovers,46,13,16,17,46,46,0,55,,2015-2016
+16,Nottingham Forest,46,13,16,17,43,47,-4,55,,2015-2016
+17,Reading,46,13,13,20,52,59,-7,52,,2015-2016
+18,Bristol City,46,13,13,20,54,71,-17,52,,2015-2016
+19,Huddersfield Town,46,13,12,21,59,70,-11,51,,2015-2016
+20,Fulham,46,12,15,19,66,79,-13,51,,2015-2016
+21,Rotherham United,46,13,10,23,53,71,-18,49,,2015-2016
+22,Charlton Athletic,46,9,13,24,40,80,-40,40,Relegation to EFL League One,2015-2016
+23,Milton Keynes Dons,46,9,12,25,39,69,-30,39,Relegation to EFL League One,2015-2016
+24,Bolton Wanderers,46,5,15,26,41,81,-40,30,Relegation to EFL League One,2015-2016
+1,Newcastle United,46,29,7,10,85,40,45,94,Promotion to the Premier League,2016-2017
+2,Brighton & Hove Albion,46,28,9,9,74,40,34,93,Promotion to the Premier League,2016-2017
+3,Reading,46,26,7,13,68,64,4,85,Qualification for the Championship play-offs,2016-2017
+4,Sheffield Wednesday,46,24,9,13,60,45,15,81,Qualification for the Championship play-offs,2016-2017
+5,Huddersfield Town,46,25,6,15,56,58,-2,81,Qualification for the Championship play-offs,2016-2017
+6,Fulham,46,22,14,10,85,57,28,80,Qualification for the Championship play-offs,2016-2017
+7,Leeds United,46,22,9,15,61,47,14,75,,2016-2017
+8,Norwich City,46,20,10,16,85,69,16,70,,2016-2017
+9,Derby County,46,18,13,15,54,50,4,67,,2016-2017
+10,Brentford,46,18,10,18,75,65,10,64,,2016-2017
+11,Preston North End,46,16,14,16,64,63,1,62,,2016-2017
+12,Cardiff City,46,17,11,18,60,61,-1,62,,2016-2017
+13,Aston Villa,46,16,14,16,47,48,-1,62,,2016-2017
+14,Barnsley,46,15,13,18,64,67,-3,58,,2016-2017
+15,Wolverhampton Wanderers,46,16,10,20,54,58,-4,58,,2016-2017
+16,Ipswich Town,46,13,16,17,48,58,-10,55,,2016-2017
+17,Bristol City,46,15,9,22,60,66,-6,54,,2016-2017
+18,Queens Park Rangers,46,15,8,23,52,66,-14,53,,2016-2017
+19,Birmingham City,46,13,14,19,45,64,-19,53,,2016-2017
+20,Burton Albion,46,13,13,20,49,63,-14,52,,2016-2017
+21,Nottingham Forest,46,14,9,23,62,72,-10,51,,2016-2017
+22,Blackburn Rovers,46,12,15,19,53,65,-12,51,Relegation to EFL League One,2016-2017
+23,Wigan Athletic,46,10,12,24,40,57,-17,42,Relegation to EFL League One,2016-2017
+24,Rotherham United,46,5,8,33,40,98,-58,23,Relegation to EFL League One,2016-2017
+1,Wolverhampton Wanderers,46,30,9,7,82,39,43,99,Promotion to the Premier League,2017-2018
+2,Cardiff City,46,27,9,10,69,39,30,90,Promotion to the Premier League,2017-2018
+3,Fulham,46,25,13,8,79,46,33,88,Qualification for Championship play-offs,2017-2018
+4,Aston Villa,46,24,11,11,72,42,30,83,Qualification for Championship play-offs,2017-2018
+5,Middlesbrough,46,22,10,14,67,45,22,76,Qualification for Championship play-offs,2017-2018
+6,Derby County,46,20,15,11,70,48,22,75,Qualification for Championship play-offs,2017-2018
+7,Preston North End,46,19,16,11,57,46,11,73,,2017-2018
+8,Millwall,46,19,15,12,56,45,11,72,,2017-2018
+9,Brentford,46,18,15,13,62,52,10,69,,2017-2018
+10,Sheffield United,46,20,9,17,62,55,7,69,,2017-2018
+11,Bristol City,46,17,16,13,67,58,9,67,,2017-2018
+12,Ipswich Town,46,17,9,20,57,60,-3,60,,2017-2018
+13,Leeds United,46,17,9,20,59,64,-5,60,,2017-2018
+14,Norwich City,46,15,15,16,49,60,-11,60,,2017-2018
+15,Sheffield Wednesday,46,14,15,17,59,60,-1,57,,2017-2018
+16,Queens Park Rangers,46,15,11,20,58,70,-12,56,,2017-2018
+17,Nottingham Forest,46,15,8,23,51,65,-14,53,,2017-2018
+18,Hull City,46,11,16,19,70,70,0,49,,2017-2018
+19,Birmingham City,46,13,7,26,38,68,-30,46,,2017-2018
+20,Reading,46,10,14,22,48,70,-22,44,,2017-2018
+21,Bolton Wanderers,46,10,13,23,39,74,-35,43,,2017-2018
+22,Barnsley,46,9,14,23,48,72,-24,41,Relegation to EFL League One,2017-2018
+23,Burton Albion,46,10,11,25,38,81,-43,41,Relegation to EFL League One,2017-2018
+24,Sunderland,46,7,16,23,52,80,-28,37,Relegation to EFL League One,2017-2018
+1,Norwich City,46,27,13,6,93,57,36,94,Promotion to the Premier League,2018-2019
+2,Sheffield United,46,26,11,9,78,41,37,89,Promotion to the Premier League,2018-2019
+3,Leeds United,46,25,8,13,73,50,23,83,Qualification for Championship play-offs,2018-2019
+4,West Bromwich Albion,46,23,11,12,87,62,25,80,Qualification for Championship play-offs,2018-2019
+5,Aston Villa,46,20,16,10,82,61,21,76,Qualification for Championship play-offs,2018-2019
+6,Derby County,46,20,14,12,69,54,15,74,Qualification for Championship play-offs,2018-2019
+7,Middlesbrough,46,20,13,13,49,41,8,73,,2018-2019
+8,Bristol City,46,19,13,14,59,53,6,70,,2018-2019
+9,Nottingham Forest,46,17,15,14,61,54,7,66,,2018-2019
+10,Swansea City,46,18,11,17,65,62,3,65,,2018-2019
+11,Brentford,46,17,13,16,73,59,14,64,,2018-2019
+12,Sheffield Wednesday,46,16,16,14,60,62,-2,64,,2018-2019
+13,Hull City,46,17,11,18,66,68,-2,62,,2018-2019
+14,Preston North End,46,16,13,17,67,67,0,61,,2018-2019
+15,Blackburn Rovers,46,16,12,18,64,69,-5,60,,2018-2019
+16,Stoke City,46,11,22,13,45,52,-7,55,,2018-2019
+17,Birmingham City,46,14,19,13,64,58,6,52,,2018-2019
+18,Wigan Athletic,46,13,13,20,51,64,-13,52,,2018-2019
+19,Queens Park Rangers,46,14,9,23,53,71,-18,51,,2018-2019
+20,Reading,46,10,17,19,49,66,-17,47,,2018-2019
+21,Millwall,46,10,14,22,48,64,-16,44,,2018-2019
+22,Rotherham United,46,8,16,22,52,83,-31,40,Relegation to EFL League One,2018-2019
+23,Bolton Wanderers,46,8,8,30,29,78,-49,32,Relegation to EFL League One,2018-2019
+24,Ipswich Town,46,5,16,25,36,77,-41,31,Relegation to EFL League One,2018-2019
+1,Leeds United,46,28,9,9,77,35,42,93,Promotion to the Premier League,2019-2020
+2,West Bromwich Albion,46,22,17,7,77,45,32,83,Promotion to the Premier League,2019-2020
+3,Brentford,46,24,9,13,80,38,42,81,Qualification for Championship play-offs,2019-2020
+4,Fulham,46,23,12,11,64,48,16,81,Qualification for Championship play-offs,2019-2020
+5,Cardiff City,46,19,16,11,68,58,10,73,Qualification for Championship play-offs,2019-2020
+6,Swansea City,46,18,16,12,62,53,9,70,Qualification for Championship play-offs,2019-2020
+7,Nottingham Forest,46,18,16,12,58,50,8,70,,2019-2020
+8,Millwall,46,17,17,12,57,51,6,68,,2019-2020
+9,Preston North End,46,18,12,16,59,54,5,66,,2019-2020
+10,Derby County,46,17,13,16,62,64,-2,64,,2019-2020
+11,Blackburn Rovers,46,17,12,17,66,63,3,63,,2019-2020
+12,Bristol City,46,17,12,17,60,65,-5,63,,2019-2020
+13,Queens Park Rangers,46,16,10,20,67,76,-9,58,,2019-2020
+14,Reading,46,15,11,20,59,58,1,56,,2019-2020
+15,Stoke City,46,16,8,22,62,68,-6,56,,2019-2020
+16,Sheffield Wednesday,46,15,11,20,58,66,-8,56,,2019-2020
+17,Middlesbrough,46,13,14,19,48,61,-13,53,,2019-2020
+18,Huddersfield Town,46,13,12,21,52,70,-18,51,,2019-2020
+19,Luton Town,46,14,9,23,54,82,-28,51,,2019-2020
+20,Birmingham City,46,12,14,20,54,75,-21,50,,2019-2020
+21,Barnsley,46,12,13,21,49,69,-20,49,,2019-2020
+22,Charlton Athletic,46,12,12,22,50,65,-15,48,Relegation to EFL League One,2019-2020
+23,Wigan Athletic,46,15,14,17,57,56,1,47,Relegation to EFL League One,2019-2020
+24,Hull City,46,12,9,25,57,87,-30,45,Relegation to EFL League One,2019-2020
+1,Norwich City,46,29,10,7,75,36,39,97,Promotion to the Premier League,2020-2021
+2,Watford,46,27,10,9,63,30,33,91,Promotion to the Premier League,2020-2021
+3,Brentford,46,24,15,7,79,42,37,87,Qualification for Championship play-offs,2020-2021
+4,Swansea City,46,23,11,12,56,39,17,80,Qualification for Championship play-offs,2020-2021
+5,Barnsley,46,23,9,14,58,50,8,78,Qualification for Championship play-offs,2020-2021
+6,Bournemouth,46,22,11,13,73,46,27,77,Qualification for Championship play-offs,2020-2021
+7,Reading,46,19,13,14,62,54,8,70,,2020-2021
+8,Cardiff City,46,18,14,14,66,49,17,68,,2020-2021
+9,Queens Park Rangers,46,19,11,16,57,55,2,68,,2020-2021
+10,Middlesbrough,46,18,10,18,55,53,2,64,,2020-2021
+11,Millwall,46,15,17,14,47,52,-5,62,,2020-2021
+12,Luton Town,46,17,11,18,41,52,-11,62,,2020-2021
+13,Preston North End,46,18,7,21,49,56,-7,61,,2020-2021
+14,Stoke City,46,15,15,16,50,52,-2,60,,2020-2021
+15,Blackburn Rovers,46,15,12,19,65,54,11,57,,2020-2021
+16,Coventry City,46,14,13,19,49,61,-12,55,,2020-2021
+17,Nottingham Forest,46,12,16,18,37,45,-8,52,,2020-2021
+18,Birmingham City,46,13,13,20,37,61,-24,52,,2020-2021
+19,Bristol City,46,15,6,25,46,68,-22,51,,2020-2021
+20,Huddersfield Town,46,12,13,21,50,71,-21,49,,2020-2021
+21,Derby County,46,11,11,24,36,58,-22,44,,2020-2021
+22,Wycombe Wanderers,46,11,10,25,39,69,-30,43,Relegation to EFL League One,2020-2021
+23,Rotherham United,46,11,9,26,44,60,-16,42,Relegation to EFL League One,2020-2021
+24,Sheffield Wednesday,46,12,11,23,40,61,-21,41,Relegation to EFL League One,2020-2021
+1,Fulham,46,27,9,10,106,43,63,90,Promotion to the Premier League,2021-2022
+2,Bournemouth,46,25,13,8,74,39,35,88,Promotion to the Premier League,2021-2022
+3,Huddersfield Town,46,23,13,10,64,47,17,82,Qualification for Championship play-offs,2021-2022
+4,Nottingham Forest,46,23,11,12,73,40,33,80,Qualification for Championship play-offs,2021-2022
+5,Sheffield United,46,21,12,13,63,45,18,75,Qualification for Championship play-offs,2021-2022
+6,Luton Town,46,21,12,13,63,55,8,75,Qualification for Championship play-offs,2021-2022
+7,Middlesbrough,46,20,10,16,59,50,9,70,,2021-2022
+8,Blackburn Rovers,46,19,12,15,59,50,9,69,,2021-2022
+9,Millwall,46,18,15,13,53,45,8,69,,2021-2022
+10,West Bromwich Albion,46,18,13,15,52,45,7,67,,2021-2022
+11,Queens Park Rangers,46,19,9,18,60,59,1,66,,2021-2022
+12,Coventry City,46,17,13,16,60,59,1,64,,2021-2022
+13,Preston North End,46,16,16,14,52,56,-4,64,,2021-2022
+14,Stoke City,46,17,11,18,57,52,5,62,,2021-2022
+15,Swansea City,46,16,13,17,58,68,-10,61,,2021-2022
+16,Blackpool,46,16,12,18,54,58,-4,60,,2021-2022
+17,Bristol City,46,15,10,21,62,77,-15,55,,2021-2022
+18,Cardiff City,46,15,8,23,50,68,-18,53,,2021-2022
+19,Hull City,46,14,9,23,41,54,-13,51,,2021-2022
+20,Birmingham City,46,11,14,21,50,75,-25,47,,2021-2022
+21,Reading,46,13,8,25,54,87,-33,41,,2021-2022
+22,Peterborough United,46,9,10,27,43,87,-44,37,Relegation to EFL League One,2021-2022
+23,Derby County,46,14,13,19,45,53,-8,34,Relegation to EFL League One,2021-2022
+24,Barnsley,46,6,12,28,33,73,-40,30,Relegation to EFL League One,2021-2022
+1,Burnley,46,29,14,3,87,35,52,101,Promotion to Premier League,2022-2023
+2,Sheffield United,46,28,7,11,73,39,34,91,Promotion to Premier League,2022-2023
+3,Luton Town,46,21,17,8,57,39,18,80,Qualification for Championship play-offs,2022-2023
+4,Middlesbrough,46,22,9,15,84,56,28,75,Qualification for Championship play-offs,2022-2023
+5,Coventry City,46,18,16,12,58,46,12,70,Qualification for Championship play-offs,2022-2023
+6,Sunderland,46,18,15,13,68,55,13,69,Qualification for Championship play-offs,2022-2023
+7,Blackburn Rovers,46,20,9,17,52,54,-2,69,,2022-2023
+8,Millwall,46,19,11,16,57,50,7,68,,2022-2023
+9,West Bromwich Albion,46,18,12,16,59,53,6,66,,2022-2023
+10,Swansea City,46,18,12,16,68,64,4,66,,2022-2023
+11,Watford,46,16,15,15,56,53,3,63,,2022-2023
+12,Preston North End,46,17,12,17,45,59,-14,63,,2022-2023
+13,Norwich City,46,17,11,18,57,54,3,62,,2022-2023
+14,Bristol City,46,15,14,17,55,56,-1,59,,2022-2023
+15,Hull City,46,14,16,16,51,61,-10,58,,2022-2023
+16,Stoke City,46,14,11,21,55,54,1,53,,2022-2023
+17,Birmingham City,46,14,11,21,47,58,-11,53,,2022-2023
+18,Huddersfield Town,46,14,11,21,47,62,-15,53,,2022-2023
+19,Rotherham United,46,11,17,18,49,60,-11,50,,2022-2023
+20,Queens Park Rangers,46,13,11,22,44,71,-27,50,,2022-2023
+21,Cardiff City,46,13,10,23,41,58,-17,49,,2022-2023
+22,Reading,46,13,11,22,46,68,-22,44,Relegation to League One,2022-2023
+23,Blackpool,46,11,11,24,48,72,-24,44,Relegation to League One,2022-2023
+24,Wigan Athletic,46,10,15,21,38,65,-27,42,Relegation to League One,2022-2023
+1,Leicester City,46,31,4,11,89,41,48,97,Promoted to the Premier League,2023-2024
+2,Ipswich Town,46,28,12,6,92,57,35,96,Promoted to the Premier League,2023-2024
+3,Leeds United,46,27,9,10,81,43,38,90,Qualified for the Championship play-offs,2023-2024
+4,Southampton,46,26,9,11,87,63,24,87,Qualified for the Championship play-offs,2023-2024
+5,West Bromwich Albion,46,21,12,13,70,47,23,75,Qualified for the Championship play-offs,2023-2024
+6,Norwich City,46,21,10,15,79,64,15,73,Qualified for the Championship play-offs,2023-2024
+7,Hull City,46,19,13,14,68,60,8,70,,2023-2024
+8,Middlesbrough,46,20,9,17,71,62,9,69,,2023-2024
+9,Coventry City,46,17,13,16,70,59,11,64,,2023-2024
+10,Preston North End,46,18,9,19,56,67,-11,63,,2023-2024
+11,Bristol City,46,17,11,18,53,51,2,62,,2023-2024
+12,Cardiff City,46,19,5,22,53,70,-17,62,,2023-2024
+13,Millwall,46,16,11,19,45,55,-10,59,,2023-2024
+14,Swansea City,46,15,12,19,59,65,-6,57,,2023-2024
+15,Watford,46,13,17,16,61,61,0,56,,2023-2024
+16,Sunderland,46,16,8,22,52,54,-2,56,,2023-2024
+17,Stoke City,46,15,11,20,49,60,-11,56,,2023-2024
+18,Queens Park Rangers,46,15,11,20,47,58,-11,56,,2023-2024
+19,Blackburn Rovers,46,14,11,21,60,74,-14,53,,2023-2024
+20,Sheffield Wednesday,46,15,8,23,44,68,-24,53,,2023-2024
+21,Plymouth Argyle,46,13,12,21,59,70,-11,51,,2023-2024
+22,Birmingham City,46,13,11,22,50,65,-15,50,Relegated to EFL League One,2023-2024
+23,Huddersfield Town,46,9,18,19,48,77,-29,45,Relegated to EFL League One,2023-2024
+24,Rotherham United,46,5,12,29,37,89,-52,27,Relegated to EFL League One,2023-2024
+1,Leeds United,46,29,13,4,95,30,65,100,Promotion to the Premier League,2024-2025
+2,Burnley,46,28,16,2,69,16,53,100,Promotion to the Premier League,2024-2025
+3,Sheffield United,46,28,8,10,63,36,27,90,Qualified for the Championship play-offs,2024-2025
+4,Sunderland,46,21,13,12,58,44,14,76,Qualified for the Championship play-offs,2024-2025
+5,Coventry City,46,20,9,17,64,58,6,69,Qualified for the Championship play-offs,2024-2025
+6,Bristol City,46,17,17,12,59,55,4,68,Qualified for the Championship play-offs,2024-2025
+7,Blackburn Rovers,46,19,9,18,53,48,5,66,,2024-2025
+8,Millwall,46,18,12,16,47,49,-2,66,,2024-2025
+9,West Bromwich Albion,46,15,19,12,57,47,10,64,,2024-2025
+10,Middlesbrough,46,18,10,18,64,56,8,64,,2024-2025
+11,Swansea City,46,17,10,19,51,56,-5,61,,2024-2025
+12,Sheffield Wednesday,46,15,13,18,60,69,-9,58,,2024-2025
+13,Norwich City,46,14,15,17,71,68,3,57,,2024-2025
+14,Watford,46,16,9,21,53,61,-8,57,,2024-2025
+15,Queens Park Rangers,46,14,14,18,53,63,-10,56,,2024-2025
+16,Portsmouth,46,14,12,20,58,71,-13,54,,2024-2025
+17,Oxford United,46,13,14,19,49,65,-16,53,,2024-2025
+18,Stoke City,46,12,15,19,45,62,-17,51,,2024-2025
+19,Derby County,46,13,11,22,48,56,-8,50,,2024-2025
+20,Preston North End,46,10,20,16,48,59,-11,50,,2024-2025
+21,Hull City,46,12,13,21,44,54,-10,49,,2024-2025
+22,Luton Town,46,13,10,23,45,69,-24,49,Relegation to EFL League One,2024-2025
+23,Plymouth Argyle,46,11,13,22,51,88,-37,46,Relegation to EFL League One,2024-2025
+24,Cardiff City,46,9,17,20,48,73,-25,44,Relegation to EFL League One,2024-2025
