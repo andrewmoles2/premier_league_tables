@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Chelsea,38,30,3,5,85,33,52,93,Qualification for the Champions League group stage,2016-2017
 2,Tottenham Hotspur,38,26,8,4,86,26,60,86,Qualification for the Champions League group stage,2016-2017
 3,Manchester City,38,23,9,6,80,39,41,78,Qualification for the Champions League group stage,2016-2017

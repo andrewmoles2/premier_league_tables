@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Blackburn Rovers,42,27,8,7,80,39,41,89,Qualification for the Champions League group stage,1994-1995
 2,Manchester United,42,26,10,6,77,28,49,88,Qualification for the UEFA Cup first round,1994-1995
 3,Nottingham Forest,42,22,11,9,72,43,29,77,Qualification for the UEFA Cup first round,1994-1995

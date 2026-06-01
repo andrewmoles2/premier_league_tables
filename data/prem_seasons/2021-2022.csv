@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Manchester City,38,29,6,3,99,26,73,93,Qualification for the Champions League group stage,2021-2022
 2,Liverpool,38,28,8,2,94,26,68,92,Qualification for the Champions League group stage,2021-2022
 3,Chelsea,38,21,11,6,76,33,43,74,Qualification for the Champions League group stage,2021-2022

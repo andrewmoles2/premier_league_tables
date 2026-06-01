@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Manchester United,38,21,12,5,76,44,32,75,Qualification for the Champions League group stage,1996-1997
 2,Newcastle United,38,19,11,8,73,40,33,68,Qualification for the Champions League second qualifying round,1996-1997
 3,Arsenal,38,19,11,8,62,32,30,68,Qualification for the UEFA Cup first round,1996-1997

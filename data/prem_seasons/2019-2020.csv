@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Liverpool,38,32,3,3,85,33,52,99,Qualification for the Champions League group stage,2019-2020
 2,Manchester City,38,26,3,9,102,35,67,81,Qualification for the Champions League group stage,2019-2020
 3,Manchester United,38,18,12,8,66,36,30,66,Qualification for the Champions League group stage,2019-2020

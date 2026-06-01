@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Manchester United,38,28,7,3,97,45,52,91,Qualification for the Champions League first group stage,1999-2000
 2,Arsenal,38,22,7,9,73,43,30,73,Qualification for the Champions League first group stage,1999-2000
 3,Leeds United,38,21,6,11,58,43,15,69,Qualification for the Champions League third qualifying round,1999-2000

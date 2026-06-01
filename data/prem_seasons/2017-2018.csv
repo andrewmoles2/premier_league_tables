@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Manchester City,38,32,4,2,106,27,79,100,Qualification for the Champions League group stage,2017-2018
 2,Manchester United,38,25,6,7,68,28,40,81,Qualification for the Champions League group stage,2017-2018
 3,Tottenham Hotspur,38,23,8,7,74,36,38,77,Qualification for the Champions League group stage,2017-2018

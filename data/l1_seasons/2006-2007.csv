@@ -1,25 +1,25 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,promotion_qualification_or_relegation,season
-1,Scunthorpe United,46,26,13,7,73,35,38,91,Promotion to Football League Championship,2006-2007
-2,Bristol City,46,25,10,11,63,39,24,85,Promotion to Football League Championship,2006-2007
-3,Blackpool,46,24,11,11,76,49,27,83,Qualification for League One play-offs,2006-2007
-4,Nottingham Forest,46,23,13,10,65,41,24,82,Qualification for League One play-offs,2006-2007
-5,Yeovil Town,46,23,10,13,55,39,16,79,Qualification for League One play-offs,2006-2007
-6,Oldham Athletic,46,21,12,13,69,47,22,75,Qualification for League One play-offs,2006-2007
-7,Swansea City,46,20,12,14,69,53,16,72,,2006-2007
-8,Carlisle United,46,19,11,16,54,55,-1,68,,2006-2007
-9,Tranmere Rovers,46,18,13,15,58,53,5,67,,2006-2007
-10,Millwall,46,19,9,18,59,62,-3,66,,2006-2007
-11,Doncaster Rovers,46,16,15,15,52,47,5,63,,2006-2007
-12,Port Vale,46,18,6,22,64,65,-1,60,,2006-2007
-13,Crewe Alexandra,46,17,9,20,66,72,-6,60,,2006-2007
-14,Northampton Town,46,15,14,17,48,51,-3,59,,2006-2007
-15,Huddersfield Town,46,14,17,15,60,69,-9,59,,2006-2007
-16,Gillingham,46,17,8,21,56,77,-21,59,,2006-2007
-17,Cheltenham Town,46,15,9,22,49,61,-12,54,,2006-2007
-18,Brighton & Hove Albion,46,14,11,21,49,58,-9,53,,2006-2007
-19,Bournemouth,46,13,13,20,50,64,-14,52,,2006-2007
-20,Leyton Orient,46,12,15,19,61,77,-16,51,,2006-2007
-21,Chesterfield,46,12,11,23,45,53,-8,47,Relegation to Football League Two,2006-2007
-22,Bradford City,46,11,14,21,47,65,-18,47,Relegation to Football League Two,2006-2007
-23,Rotherham United,46,13,9,24,58,75,-17,38,Relegation to Football League Two,2006-2007
-24,Brentford,46,8,13,25,40,79,-39,37,Relegation to Football League Two,2006-2007
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,promotion_qualification_or_relegation,season,pts
+1,Scunthorpe United,46,26,13,7,73,35,38,91,Promotion to Football League Championship,2006-2007,91
+2,Bristol City,46,25,10,11,63,39,24,85,Promotion to Football League Championship,2006-2007,85
+3,Blackpool,46,24,11,11,76,49,27,83,Qualification for League One play-offs,2006-2007,83
+4,Nottingham Forest,46,23,13,10,65,41,24,82,Qualification for League One play-offs,2006-2007,82
+5,Yeovil Town,46,23,10,13,55,39,16,79,Qualification for League One play-offs,2006-2007,79
+6,Oldham Athletic,46,21,12,13,69,47,22,75,Qualification for League One play-offs,2006-2007,75
+7,Swansea City,46,20,12,14,69,53,16,72,,2006-2007,72
+8,Carlisle United,46,19,11,16,54,55,-1,68,,2006-2007,68
+9,Tranmere Rovers,46,18,13,15,58,53,5,67,,2006-2007,67
+10,Millwall,46,19,9,18,59,62,-3,66,,2006-2007,66
+11,Doncaster Rovers,46,16,15,15,52,47,5,63,,2006-2007,63
+12,Port Vale,46,18,6,22,64,65,-1,60,,2006-2007,60
+13,Crewe Alexandra,46,17,9,20,66,72,-6,60,,2006-2007,60
+14,Northampton Town,46,15,14,17,48,51,-3,59,,2006-2007,59
+15,Huddersfield Town,46,14,17,15,60,69,-9,59,,2006-2007,59
+16,Gillingham,46,17,8,21,56,77,-21,59,,2006-2007,59
+17,Cheltenham Town,46,15,9,22,49,61,-12,54,,2006-2007,54
+18,Brighton & Hove Albion,46,14,11,21,49,58,-9,53,,2006-2007,53
+19,Bournemouth,46,13,13,20,50,64,-14,52,,2006-2007,52
+20,Leyton Orient,46,12,15,19,61,77,-16,51,,2006-2007,51
+21,Chesterfield,46,12,11,23,45,53,-8,47,Relegation to Football League Two,2006-2007,47
+22,Bradford City,46,11,14,21,47,65,-18,47,Relegation to Football League Two,2006-2007,47
+23,Rotherham United,46,13,9,24,58,75,-17,38,Relegation to Football League Two,2006-2007,38
+24,Brentford,46,8,13,25,40,79,-39,37,Relegation to Football League Two,2006-2007,37

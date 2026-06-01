@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Manchester United,38,27,6,5,80,22,58,87,Qualification for the Champions League group stage,2007-2008
 2,Chelsea,38,25,10,3,65,26,39,85,Qualification for the Champions League group stage,2007-2008
 3,Arsenal,38,24,11,3,74,31,43,83,Qualification for the Champions League third qualifying round,2007-2008

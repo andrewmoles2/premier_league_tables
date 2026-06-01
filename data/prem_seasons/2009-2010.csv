@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Chelsea,38,27,5,6,103,32,71,86,Qualification for the Champions League group stage,2009-2010
 2,Manchester United,38,27,4,7,86,28,58,85,Qualification for the Champions League group stage,2009-2010
 3,Arsenal,38,23,6,9,83,41,42,75,Qualification for the Champions League group stage,2009-2010

@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Arsenal,38,23,9,6,68,33,35,78,Qualification for the Champions League group stage,1997-1998
 2,Manchester United,38,23,8,7,73,26,47,77,Qualification for the Champions League second qualifying round,1997-1998
 3,Liverpool,38,18,11,9,68,42,26,65,Qualification for the UEFA Cup first round,1997-1998

@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Manchester United,38,25,8,5,74,34,40,83,Qualification for the Champions League group stage,2002-2003
 2,Arsenal,38,23,9,6,85,42,43,78,Qualification for the Champions League group stage,2002-2003
 3,Newcastle United,38,21,6,11,63,48,15,69,Qualification for the Champions League third qualifying round,2002-2003

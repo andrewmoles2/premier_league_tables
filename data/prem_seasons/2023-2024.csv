@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Manchester City,38,28,7,3,96,34,62,91,Qualification for the Champions League league phase,2023-2024
 2,Arsenal,38,28,5,5,91,29,62,89,Qualification for the Champions League league phase,2023-2024
 3,Liverpool,38,24,10,4,86,41,45,82,Qualification for the Champions League league phase,2023-2024

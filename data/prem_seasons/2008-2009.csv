@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Manchester United,38,28,6,4,68,24,44,90,Qualification for the Champions League group stage,2008-2009
 2,Liverpool,38,25,11,2,77,27,50,86,Qualification for the Champions League group stage,2008-2009
 3,Chelsea,38,25,8,5,68,24,44,83,Qualification for the Champions League group stage,2008-2009

@@ -8,7 +8,7 @@ library(glue)
 library(janitor)
 
 # setup years and seasons ----
-years <- seq(1992, 2024, 1)
+years <- seq(1992, 2025, 1)
 years_sub <- substr(years + 1, 3, 4)
 
 season <- glue("{years}-{years + 1}")
@@ -78,7 +78,7 @@ for (i in seq_along(foot_league_urls)) {
   l1_table_list1[[i]] <- l1_table
   l2_table_list1[[i]] <- l2_table
   
-  Sys.sleep(1)
+  Sys.sleep(5)
 }
 
 # * championship ----
@@ -95,7 +95,7 @@ for (i in seq_along(champ_url_list)) {
   
   champ_table_list2[[i]] <- champ_table
   
-  Sys.sleep(1)
+  Sys.sleep(5)
 }
 # append lists
 champ_table_list <- c(champ_table_list1, champ_table_list2)
@@ -118,7 +118,7 @@ for (i in seq_along(l1_url_list)) {
     
     l1_table_list2[[i]] <- l1_table
     
-    Sys.sleep(1)
+    Sys.sleep(5)
   } else if (i == 3 | i == 2) {
     url_bow <- bow(l1_url_list[i])
     
@@ -131,7 +131,7 @@ for (i in seq_along(l1_url_list)) {
     
     l1_table_list2[[i]] <- l1_table
     
-    Sys.sleep(1)
+    Sys.sleep(5)
   } else {
     url_bow <- bow(l1_url_list[i])
     
@@ -144,7 +144,7 @@ for (i in seq_along(l1_url_list)) {
     
     l1_table_list2[[i]] <- l1_table
     
-    Sys.sleep(1)
+    Sys.sleep(5)
   }
 }
 # append lists
@@ -165,7 +165,7 @@ for (i in seq_along(l2_url_list)) {
     
     l2_table_list2[[i]] <- l2_table
     
-    Sys.sleep(1)
+    Sys.sleep(5)
   } else if (i == 3 | i == 2) {
     url_bow <- bow(l2_url_list[i])
     
@@ -178,7 +178,7 @@ for (i in seq_along(l2_url_list)) {
     
     l2_table_list2[[i]] <- l1_table
     
-    Sys.sleep(1)
+    Sys.sleep(5)
   } else {
     url_bow <- bow(l2_url_list[i])
     
@@ -191,7 +191,7 @@ for (i in seq_along(l2_url_list)) {
     
     l2_table_list2[[i]] <- l2_table
     
-    Sys.sleep(1)
+    Sys.sleep(5)
   }
 }
 # append lists
@@ -236,7 +236,10 @@ for (i in seq_along(l2_table_list)) {
 names(l2_table_list) <- season
 
 # tidy each data frame ----
-column_names <- janitor::make_clean_names(names(champ_table_list[["2024-2025"]]))
+#column_names <- janitor::make_clean_names(names(champ_table_list[["2024-2025"]]))
+column_names <- c("position","team","played","wins","draws",
+                  "loses","goals_for","goals_against","goal_diff",
+                  "points","promotion_qualification_or_relegation","season")
 
 # * championship ----
 for (s in seq_along(champ_table_list)) {
@@ -251,11 +254,11 @@ for (s in seq_along(champ_table_list)) {
       team = trimws(team),
       promotion_qualification_or_relegation = str_replace(promotion_qualification_or_relegation,
                                                 "\\[.*", ""),
-      pts = str_replace(pts, "\\[.*", ""),
-      pts = as.integer(pts)
+      pts = str_replace(points, "\\[.*", ""),
+      pts = as.integer(points)
     ) |>
     mutate(
-      gd = gf - ga
+      goal_diff = goals_for - goals_against
     )
 }
 
@@ -272,11 +275,11 @@ for (s in seq_along(l1_table_list)) {
       team = trimws(team),
       promotion_qualification_or_relegation = str_replace(promotion_qualification_or_relegation,
                                                           "\\[.*", ""),
-      pts = str_replace(pts, "\\[.*", ""),
-      pts = as.integer(pts)
+      pts = str_replace(points, "\\[.*", ""),
+      pts = as.integer(points)
     ) |>
     mutate(
-      gd = gf - ga
+      goal_diff = goals_for - goals_against
     )
 }
 
@@ -293,11 +296,11 @@ for (s in seq_along(l2_table_list)) {
       team = trimws(team),
       promotion_qualification_or_relegation = str_replace(promotion_qualification_or_relegation,
                                                           "\\[.*", ""),
-      pts = str_replace(pts, "\\[.*", ""),
-      pts = as.integer(pts)
+      pts = str_replace(points, "\\[.*", ""),
+      pts = as.integer(points)
     ) |>
     mutate(
-      gd = gf - ga
+      goal_diff = goals_for - goals_against
     )
 }
 

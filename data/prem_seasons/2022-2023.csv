@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Manchester City,38,28,5,5,94,33,61,89,Qualification to Champions League group stage,2022-2023
 2,Arsenal,38,26,6,6,88,43,45,84,Qualification to Champions League group stage,2022-2023
 3,Manchester United,38,23,6,9,58,43,15,75,Qualification to Champions League group stage,2022-2023

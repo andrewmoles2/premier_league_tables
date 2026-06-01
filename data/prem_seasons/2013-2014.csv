@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Manchester City,38,27,5,6,102,37,65,86,Qualification for the Champions League group stage,2013-2014
 2,Liverpool,38,26,6,6,101,50,51,84,Qualification for the Champions League group stage,2013-2014
 3,Chelsea,38,25,7,6,71,27,44,82,Qualification for the Champions League group stage,2013-2014

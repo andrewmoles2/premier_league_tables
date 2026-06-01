@@ -71,7 +71,15 @@ all_levels <- c(
 )
 
 all_tables <- all_tables |>
-  mutate(pos_league = factor(pos_league, levels = all_levels))
+  mutate(pos_league = factor(pos_league, levels = all_levels),
+         points_per_game = pts / pld) |>
+  mutate(league_movement = case_when(
+    grepl("Relegation", info) ~ "relegated",
+    grepl("Promotion", info) ~ "promoted",
+    .default = "no change"
+  )) 
+
+# for analysis make league movement factor with no change as default value
 
 # short season label
 s1 <- substr(unique(all_tables$season),3,4)
@@ -85,6 +93,7 @@ all_tables |>
   geom_line(aes(group = 1)) +
   scale_x_discrete(labels = season_short) +
   scale_y_continuous(breaks = seq(1, 24, 1))
+
 
 all_tables |>
   mutate(

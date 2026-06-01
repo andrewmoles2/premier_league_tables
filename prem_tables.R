@@ -9,7 +9,7 @@ library(glue)
 library(janitor)
 
 # setup years and seasons ----
-years <- seq(1992, 2024, 1)
+years <- seq(1992, 2025, 1)
 years_sub <- substr(years + 1, 3, 4)
 
 season <- glue("{years}-{years + 1}")
@@ -32,7 +32,9 @@ url_list <- c(
 prem_table_list <- list()
 
 for (i in seq_along(url_list)) {
-  url_bow <- bow(url_list[i])
+  url_bow <- bow(url_list[i], 
+                 user_agent = "I am scraping your site for a learning materials. You can contact me at a.p.moles@lse.ac.uk",
+                 force = TRUE)
   
   all_tables <- scrape(url_bow) %>%
     html_elements("table.wikitable") %>%
@@ -43,7 +45,7 @@ for (i in seq_along(url_list)) {
   
   prem_table_list[[i]] <- prem_table
   
-  Sys.sleep(1)
+  Sys.sleep(5)
 }
 
 # adding the season to the data frames ----
@@ -79,6 +81,16 @@ for (s in seq_along(prem_table_list_tidy)) {
       gd = gf - ga
     )
 }
+
+# tidy up the column names ----
+column_names <- c("position","team","played","wins","draws",
+                  "loses","goals_for","goals_against","goal_diff",
+                  "points","qualification_or_relegation","season")
+
+for (columns in seq_along(prem_table_list_tidy)) {
+  colnames(prem_table_list_tidy[[columns]]) <- column_names
+}
+
 
 # combine to one data frame for ease of use and saving ----
 all_prem_years <- data.table::rbindlist(prem_table_list_tidy)

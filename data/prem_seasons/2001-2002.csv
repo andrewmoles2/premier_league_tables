@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Arsenal,38,26,9,3,79,36,43,87,Qualification for the Champions League first group stage,2001-2002
 2,Liverpool,38,24,8,6,67,30,37,80,Qualification for the Champions League first group stage,2001-2002
 3,Manchester United,38,24,5,9,87,45,42,77,Qualification for the Champions League third qualifying round,2001-2002

@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Chelsea,38,26,9,3,73,32,41,87,Qualification for the Champions League group stage,2014-2015
 2,Manchester City,38,24,7,7,83,38,45,79,Qualification for the Champions League group stage,2014-2015
 3,Arsenal,38,22,9,7,71,36,35,75,Qualification for the Champions League group stage,2014-2015

@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Arsenal,38,26,12,0,73,26,47,90,Qualification for the Champions League group stage,2003-2004
 2,Chelsea,38,24,7,7,67,30,37,79,Qualification for the Champions League group stage,2003-2004
 3,Manchester United,38,23,6,9,64,35,29,75,Qualification for the Champions League third qualifying round,2003-2004

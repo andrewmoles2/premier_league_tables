@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Manchester United,38,28,5,5,86,43,43,89,Qualification for the Champions League group stage,2012-2013
 2,Manchester City,38,23,9,6,66,34,32,78,Qualification for the Champions League group stage,2012-2013
 3,Chelsea,38,22,9,7,75,39,36,75,Qualification for the Champions League group stage,2012-2013

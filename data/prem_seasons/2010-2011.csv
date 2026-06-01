@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Manchester United,38,23,11,4,78,37,41,80,Qualification for the Champions League group stage,2010-2011
 2,Chelsea,38,21,8,9,69,33,36,71,Qualification for the Champions League group stage,2010-2011
 3,Manchester City,38,21,8,9,60,33,27,71,Qualification for the Champions League group stage,2010-2011

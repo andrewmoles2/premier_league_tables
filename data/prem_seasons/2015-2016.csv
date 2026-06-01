@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Leicester City,38,23,12,3,68,36,32,81,Qualification for the Champions League group stage,2015-2016
 2,Arsenal,38,20,11,7,65,36,29,71,Qualification for the Champions League group stage,2015-2016
 3,Tottenham Hotspur,38,19,13,6,69,35,34,70,Qualification for the Champions League group stage,2015-2016

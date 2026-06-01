@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Manchester City,38,32,2,4,95,23,72,98,Qualification to Champions League group stage,2018-2019
 2,Liverpool,38,30,7,1,89,22,67,97,Qualification to Champions League group stage,2018-2019
 3,Chelsea,38,21,9,8,63,39,24,72,Qualification to Champions League group stage,2018-2019

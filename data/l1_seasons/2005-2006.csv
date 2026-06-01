@@ -1,25 +1,25 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,promotion_qualification_or_relegation,season
-1,Southend United,46,23,13,10,72,43,29,82,Promotion to the Championship,2005-2006
-2,Colchester United,46,22,13,11,58,40,18,79,Promotion to the Championship,2005-2006
-3,Brentford,46,20,16,10,72,52,20,76,Qualification for the League One play-offs,2005-2006
-4,Huddersfield Town,46,19,16,11,72,59,13,73,Qualification for the League One play-offs,2005-2006
-5,Barnsley,46,18,18,10,62,44,18,72,Qualification for the League One play-offs,2005-2006
-6,Swansea City,46,18,17,11,78,55,23,71,Qualification for the League One play-offs,2005-2006
-7,Nottingham Forest,46,19,12,15,67,52,15,69,,2005-2006
-8,Doncaster Rovers,46,20,9,17,55,51,4,69,,2005-2006
-9,Bristol City,46,18,11,17,66,62,4,65,,2005-2006
-10,Oldham Athletic,46,18,11,17,58,60,-2,65,,2005-2006
-11,Bradford City,46,14,19,13,51,49,2,61,,2005-2006
-12,Scunthorpe United,46,15,15,16,68,73,-5,60,,2005-2006
-13,Port Vale,46,16,12,18,49,54,-5,60,,2005-2006
-14,Gillingham,46,16,12,18,50,64,-14,60,,2005-2006
-15,Yeovil Town,46,15,11,20,54,62,-8,56,,2005-2006
-16,Chesterfield,46,14,14,18,63,73,-10,56,,2005-2006
-17,Bournemouth,46,12,19,15,49,53,-4,55,,2005-2006
-18,Tranmere Rovers,46,13,15,18,50,52,-2,54,,2005-2006
-19,Blackpool,46,12,17,17,56,64,-8,53,,2005-2006
-20,Rotherham United,46,12,16,18,52,62,-10,52,,2005-2006
-21,Hartlepool United,46,11,17,18,44,59,-15,50,Relegation to League Two,2005-2006
-22,Milton Keynes Dons,46,12,14,20,45,66,-21,50,Relegation to League Two,2005-2006
-23,Swindon Town,46,11,15,20,46,65,-19,48,Relegation to League Two,2005-2006
-24,Walsall,46,11,14,21,47,70,-23,47,Relegation to League Two,2005-2006
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,promotion_qualification_or_relegation,season,pts
+1,Southend United,46,23,13,10,72,43,29,82,Promotion to the Championship,2005-2006,82
+2,Colchester United,46,22,13,11,58,40,18,79,Promotion to the Championship,2005-2006,79
+3,Brentford,46,20,16,10,72,52,20,76,Qualification for the League One play-offs,2005-2006,76
+4,Huddersfield Town,46,19,16,11,72,59,13,73,Qualification for the League One play-offs,2005-2006,73
+5,Barnsley,46,18,18,10,62,44,18,72,Qualification for the League One play-offs,2005-2006,72
+6,Swansea City,46,18,17,11,78,55,23,71,Qualification for the League One play-offs,2005-2006,71
+7,Nottingham Forest,46,19,12,15,67,52,15,69,,2005-2006,69
+8,Doncaster Rovers,46,20,9,17,55,51,4,69,,2005-2006,69
+9,Bristol City,46,18,11,17,66,62,4,65,,2005-2006,65
+10,Oldham Athletic,46,18,11,17,58,60,-2,65,,2005-2006,65
+11,Bradford City,46,14,19,13,51,49,2,61,,2005-2006,61
+12,Scunthorpe United,46,15,15,16,68,73,-5,60,,2005-2006,60
+13,Port Vale,46,16,12,18,49,54,-5,60,,2005-2006,60
+14,Gillingham,46,16,12,18,50,64,-14,60,,2005-2006,60
+15,Yeovil Town,46,15,11,20,54,62,-8,56,,2005-2006,56
+16,Chesterfield,46,14,14,18,63,73,-10,56,,2005-2006,56
+17,Bournemouth,46,12,19,15,49,53,-4,55,,2005-2006,55
+18,Tranmere Rovers,46,13,15,18,50,52,-2,54,,2005-2006,54
+19,Blackpool,46,12,17,17,56,64,-8,53,,2005-2006,53
+20,Rotherham United,46,12,16,18,52,62,-10,52,,2005-2006,52
+21,Hartlepool United,46,11,17,18,44,59,-15,50,Relegation to League Two,2005-2006,50
+22,Milton Keynes Dons,46,12,14,20,45,66,-21,50,Relegation to League Two,2005-2006,50
+23,Swindon Town,46,11,15,20,46,65,-19,48,Relegation to League Two,2005-2006,48
+24,Walsall,46,11,14,21,47,70,-23,47,Relegation to League Two,2005-2006,47

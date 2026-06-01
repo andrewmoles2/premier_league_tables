@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Chelsea,38,29,4,5,72,22,50,91,Qualification for the Champions League group stage,2005-2006
 2,Manchester United,38,25,8,5,72,34,38,83,Qualification for the Champions League group stage,2005-2006
 3,Liverpool,38,25,7,6,57,25,32,82,Qualification for the Champions League third qualifying round,2005-2006

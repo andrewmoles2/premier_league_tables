@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Manchester United,38,22,13,3,80,37,43,79,Qualification for the Champions League first group stage,1998-1999
 2,Arsenal,38,22,12,4,59,17,42,78,Qualification for the Champions League first group stage,1998-1999
 3,Chelsea,38,20,15,3,57,30,27,75,Qualification for the Champions League third qualifying round,1998-1999

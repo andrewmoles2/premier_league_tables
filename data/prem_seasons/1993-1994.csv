@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Manchester United,42,27,11,4,80,38,42,92,Qualification for the Champions League group stage,1993-1994
 2,Blackburn Rovers,42,25,9,8,63,36,27,84,Qualification for the UEFA Cup first round,1993-1994
 3,Newcastle United,42,23,8,11,82,41,41,77,Qualification for the UEFA Cup first round,1993-1994

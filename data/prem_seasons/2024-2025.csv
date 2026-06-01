@@ -1,4 +1,4 @@
-pos,team,pld,w,d,l,gf,ga,gd,pts,qualification_or_relegation,season
+position,team,played,wins,draws,loses,goals_for,goals_against,goal_diff,points,qualification_or_relegation,season
 1,Liverpool,38,25,9,4,86,41,45,84,Qualification for the Champions League league phase,2024-2025
 2,Arsenal,38,20,14,4,69,34,35,74,Qualification for the Champions League league phase,2024-2025
 3,Manchester City,38,21,8,9,72,44,28,71,Qualification for the Champions League league phase,2024-2025
